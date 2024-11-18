@@ -1,0 +1,1001 @@
+row_id,id,State_Code,State_Name,State_ab,County,City,Place,Type,Primary,Zip_Code,Area_Code,ALand,AWater,Lat,Lon
+1,1026,1,Alabama,AL,"Autauga County",Elmore,Autaugaville,Track,Track,36025,334,8020338,60048,32.4473511,-86.4768097
+2,10216,1,Alabama,AL,"Autauga County",Robertsdale,Autaugaville,Track,Track,36567,251,737211648,3860933,30.7200267,-87.6245437
+3,10226,1,Alabama,AL,"Autauga County",Silverhill,Autaugaville,Track,Track,36576,251,71113244,190587,30.5345606,-87.7548736
+4,10236,1,Alabama,AL,"Autauga County","Orange Beach",Autaugaville,Track,Track,36561,251,15491986,20427550,30.3005856,-87.5417985
+5,10246,1,Alabama,AL,"Autauga County",Louisville,Autaugaville,Track,Track,36048,334,517008078,983621,31.9222753,-85.4498309
+6,10256,1,Alabama,AL,"Autauga County",Brent,Autaugaville,Track,Track,35034,205,691793540,3983687,32.9533249,-87.0043466
+7,10266,1,Alabama,AL,"Autauga County",Remlap,Autaugaville,Track,Track,35133,205,203716769,1004680,33.8405764,-86.6350183
+8,10276,1,Alabama,AL,"Autauga County",Georgiana,Autaugaville,Track,Track,36033,334,352261684,177369,31.7163243,-86.7533225
+9,10286,1,Alabama,AL,"Autauga County",Anniston,Autaugaville,Track,Track,36207,256,12116269,23502,33.6448084,-85.796557
+10,10296,1,Alabama,AL,"Autauga County",Jacksonville,Autaugaville,Track,Track,36265,256,41129558,487657,33.7661796,-85.7864612
+11,101901,1,Alabama,AL,"Chambers County",Wadley,Abanda,CDP,place,36276,256,7764034,34284,33.091627,-85.527029
+12,101910,1,Alabama,AL,"Pickens County",Aliceville,"Aliceville city",City,place,35442,205,11819855,0,33.123686,-88.159364
+13,101920,1,Alabama,AL,"Jefferson County",Odenville,Argo,Town,place,35120,205,27893577,150331,33.691576,-86.503766
+14,101930,1,Alabama,AL,"Lee County",Auburn,"Auburn city",City,place,36830,334,152375113,2646161,32.607722,-85.489545
+15,101940,1,Alabama,AL,"Mobile County","Bayou La Batre","Bayou La Batre city",City,place,36509,251,19400655,368667,30.407586,-88.263271
+16,101950,1,Alabama,AL,"Jefferson County",Bessemer,"Bessemer city",City,place,35022,205,104798633,439841,33.370789,-86.971596
+17,101960,1,Alabama,AL,"Greene County",Boligee,Boligee,Town,place,35443,205,10231296,36323,32.7681,-88.028579
+18,101970,1,Alabama,AL,"Marion County",Brilliant,Brilliant,Town,place,35548,205,27687370,0,34.025353,-87.769145
+19,101980,1,Alabama,AL,"Shelby County",Calera,"Calera city",City,place,35040,205,62376107,685210,33.122319,-86.745644
+20,101990,1,Alabama,AL,"Pickens County",Carrollton,Carrollton,Town,place,35447,205,5331435,59271,33.261903,-88.095071
+21,102106,1,Alabama,AL,"Autauga County",Ohatchee,Autaugaville,Track,Track,36271,256,177682000,7624905,33.7687621,-86.0372827
+22,102116,1,Alabama,AL,"Autauga County",Lanett,Autaugaville,Track,Track,36863,334,6948352,0,32.8580358,-85.2066713
+23,102126,1,Alabama,AL,"Autauga County",Clanton,Autaugaville,Track,Track,35045,205,64410623,251385,32.8695805,-86.6588881
+24,102136,1,Alabama,AL,"Autauga County",Gilbertown,Autaugaville,Track,Track,36908,251,578537985,1836706,31.9275928,-88.3326295
+25,102146,1,Alabama,AL,"Autauga County",Jackson,Autaugaville,Track,Track,36545,251,447191122,17991801,31.3573817,-87.8407503
+26,102156,1,Alabama,AL,"Autauga County",Jack,Autaugaville,Track,Track,36346,334,208213147,177901,31.5375844,-85.8984006
+27,102166,1,Alabama,AL,"Autauga County",Enterprise,Autaugaville,Track,Track,36330,334,40693675,151495,31.3627415,-85.8358304
+28,102176,1,Alabama,AL,"Autauga County","Muscle Shoals",Autaugaville,Track,Track,35661,256,8140717,0,34.7471222,-87.6398474
+29,102186,1,Alabama,AL,"Autauga County",Evergreen,Autaugaville,Track,Track,36401,251,90973774,334237,31.4626914,-86.9984985
+30,102196,1,Alabama,AL,"Autauga County",Andalusia,Autaugaville,Track,Track,36421,334,15438185,163537,31.326445,-86.507274
+31,102206,1,Alabama,AL,"Autauga County","Highland Home",Autaugaville,Track,Track,36041,334,226396958,213258,31.949642,-86.3651124
+32,102216,1,Alabama,AL,"Autauga County",Vinemont,Autaugaville,Track,Track,35179,256,132870985,838367,34.1589207,-86.9571734
+33,102226,1,Alabama,AL,"Autauga County",Cullman,Autaugaville,Track,Track,35057,256,187272055,9574488,34.0103921,-86.9102548
+34,102236,1,Alabama,AL,"Autauga County",Ozark,Autaugaville,Track,Track,36360,334,19245046,0,31.3971308,-85.6615834
+35,102246,1,Alabama,AL,"Autauga County",Selma,Autaugaville,Track,Track,36701,334,17558229,90685,32.4484185,-87.0509577
+36,102256,1,Alabama,AL,"Autauga County",Selma,Autaugaville,Track,Track,36701,334,34291179,1700792,32.3660372,-87.026282
+37,102266,1,Alabama,AL,"Autauga County","Ft Payne",Autaugaville,Track,Track,35967,256,131988900,472277,34.3594477,-85.8011776
+38,102276,1,Alabama,AL,"Autauga County",Eclectic,Autaugaville,Track,Track,36024,334,165330802,1570890,32.6328834,-86.0345965
+39,102286,1,Alabama,AL,"Autauga County",Prattville,Autaugaville,Track,Track,36066,334,31951242,4286137,32.449186,-86.3730508
+40,102296,1,Alabama,AL,"Autauga County",Gadsden,Autaugaville,Track,Track,35901,256,13659980,699379,34.0321863,-85.9730613
+41,102306,1,Alabama,AL,"Autauga County",Gadsden,Autaugaville,Track,Track,35901,256,4308625,1900493,33.9993815,-86.010319
+42,102316,1,Alabama,AL,"Autauga County",Glencoe,Autaugaville,Track,Track,35905,256,57350608,1090995,33.918413,-85.9183325
+43,102326,1,Alabama,AL,"Autauga County",Fayette,Autaugaville,Track,Track,35555,205,311521457,71975,33.8171345,-87.6438256
+44,102336,1,Alabama,AL,"Autauga County","Red Bay",Autaugaville,Track,Track,35582,256,191320812,2880300,34.5152306,-88.0797797
+45,102346,1,Alabama,AL,"Autauga County",Eutaw,Autaugaville,Track,Track,35462,205,602704133,5380156,32.9585581,-88.0510053
+46,102356,1,Alabama,AL,"Autauga County",Abbeville,Autaugaville,Track,Track,36310,334,89705915,139084,31.564689,-85.2591239
+47,102366,1,Alabama,AL,"Autauga County",Dothan,Autaugaville,Track,Track,36303,334,4123213,0,31.2357975,-85.4197082
+48,102376,1,Alabama,AL,"Autauga County",Dothan,Autaugaville,Track,Track,36303,334,44228758,0,31.277139,-85.3841365
+49,102386,1,Alabama,AL,"Autauga County",Princeton,Autaugaville,Track,Track,35766,256,552077223,1679095,34.8787834,-86.2279366
+50,102396,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35217,205,8002141,0,33.5632457,-86.7640472
+51,102406,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35206,205,3605024,0,33.5591908,-86.7233518
+52,102416,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35204,205,1778286,0,33.5122579,-86.8441439
+53,102426,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35208,205,2232730,0,33.498996,-86.8647606
+54,102436,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35204,205,743007,0,33.4945909,-86.834764
+55,102446,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35235,205,7956342,39652,33.596713,-86.6763136
+56,102456,1,Alabama,AL,"Autauga County",Bessemer,Autaugaville,Track,Track,35020,205,2076635,0,33.3914623,-86.9487605
+57,102466,1,Alabama,AL,"Autauga County",Homewood,Autaugaville,Track,Track,35209,205,3372196,78924,33.4613607,-86.8005817
+58,102476,1,Alabama,AL,"Autauga County",Leeds,Autaugaville,Track,Track,35094,205,12786477,133297,33.5565279,-86.5621484
+59,102486,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35220,205,7511055,70529,33.6691522,-86.6511913
+60,102496,1,Alabama,AL,"Autauga County",Gardendale,Autaugaville,Track,Track,35071,205,40159982,0,33.6758356,-86.7966575
+61,102506,1,Alabama,AL,"Autauga County",Graysville,Autaugaville,Track,Track,35073,205,56885352,537614,33.6350049,-86.9946308
+62,102516,1,Alabama,AL,"Autauga County",Irondale,Autaugaville,Track,Track,35210,205,26558605,354052,33.5445586,-86.6466397
+63,102526,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35243,205,12429198,42051,33.4361371,-86.7561579
+64,102536,1,Alabama,AL,"Autauga County",Midfield,Autaugaville,Track,Track,35228,205,4006150,0,33.4412981,-86.9424457
+65,102546,1,Alabama,AL,"Autauga County",Bessemer,Autaugaville,Track,Track,35022,205,34033783,463549,33.3338629,-86.9127674
+66,102556,1,Alabama,AL,"Autauga County",Hoover,Autaugaville,Track,Track,35226,205,18071006,173459,33.3822004,-86.8552686
+67,102566,1,Alabama,AL,"Autauga County",Florence,Autaugaville,Track,Track,35630,256,8653066,2906570,34.8120233,-87.624424
+68,102576,1,Alabama,AL,"Autauga County",Florence,Autaugaville,Track,Track,35634,256,123190580,594938,34.9616163,-87.5143563
+69,102586,1,Alabama,AL,"Autauga County",Trinity,Autaugaville,Track,Track,35673,256,117628141,989972,34.57105,-87.2129882
+70,102596,1,Alabama,AL,"Autauga County",Auburn,Autaugaville,Track,Track,36830,334,2907181,14935,32.598547,-85.5163458
+71,102606,1,Alabama,AL,"Autauga County",Opelika,Autaugaville,Track,Track,36801,334,4310558,34936,32.6330378,-85.3853644
+72,102616,1,Alabama,AL,"Autauga County",Opelika,Autaugaville,Track,Track,36804,334,165626066,864333,32.4970769,-85.4025028
+73,102626,1,Alabama,AL,"Autauga County",Athens,Autaugaville,Track,Track,35611,256,10362596,11461,34.8220771,-86.9813141
+74,102636,1,Alabama,AL,"Autauga County",Hayneville,Autaugaville,Track,Track,36040,334,408826352,1225673,32.0922981,-86.7776904
+75,102646,1,Alabama,AL,"Autauga County",Tuskegee,Autaugaville,Track,Track,36083,334,7583956,405124,32.426005,-85.6917046
+76,102656,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35810,256,1995502,0,34.7679304,-86.6346783
+77,102666,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35816,256,2365766,0,34.7415924,-86.637675
+78,102676,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35801,256,2259086,0,34.7119242,-86.5826594
+79,102686,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35802,256,5765482,14747,34.6536811,-86.5262716
+80,102696,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35811,256,108073369,583742,34.782744,-86.4057661
+81,102706,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35806,256,12924198,54647,34.7908679,-86.7292721
+82,102716,1,Alabama,AL,"Autauga County",Madison,Autaugaville,Track,Track,35758,256,10927370,11607,34.7176388,-86.7667595
+83,102726,1,Alabama,AL,"Autauga County","Dixons Mills",Autaugaville,Track,Track,36736,334,286336268,54771,32.0620795,-87.7277351
+84,102736,1,Alabama,AL,"Autauga County",Winfield,Autaugaville,Track,Track,35594,205,154499292,310617,33.9577593,-87.7518284
+85,102746,1,Alabama,AL,"Autauga County",Guntersville,Autaugaville,Track,Track,35976,256,43587610,22086593,34.3505036,-86.2555798
+86,102756,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36603,251,1589550,15221,30.6993359,-88.0591706
+87,102766,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36603,251,1043100,0,30.6868736,-88.060218
+88,102776,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36605,251,5320481,984861,30.6020753,-88.0987938
+89,102786,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36607,251,3193386,0,30.6950269,-88.1140906
+90,102796,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36608,251,5552352,27672,30.6992655,-88.1362176
+91,102806,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36608,251,1900631,0,30.6951429,-88.1824851
+92,102816,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36693,251,7475705,83074,30.623508,-88.1765802
+93,102826,1,Alabama,AL,"Autauga County",Chickasaw,Autaugaville,Track,Track,36611,251,981169,0,30.7618781,-88.0886165
+94,102836,1,Alabama,AL,"Autauga County",Semmes,Autaugaville,Track,Track,36575,251,25915097,46015,30.78278,-88.2128056
+95,102846,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36695,251,8957994,72201,30.6628949,-88.213545
+96,102856,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36619,251,17212873,25319,30.570406,-88.2179902
+97,102866,1,Alabama,AL,"Autauga County",Prichard,Autaugaville,Track,Track,36610,251,1748287,0,30.7432485,-88.081799
+98,102876,1,Alabama,AL,"Autauga County",Uriah,Autaugaville,Track,Track,36480,251,427194441,5527227,31.3250054,-87.5991274
+99,102886,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36108,334,3561874,6703,32.3613688,-86.3289447
+100,102896,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36111,334,3213699,0,32.3356893,-86.290787
+101,102906,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36108,334,10571245,10928,32.3515219,-86.360195
+102,102916,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36117,334,3690069,13893,32.3716245,-86.2001367
+103,102926,1,Alabama,AL,"Autauga County",Montgmomery,Autaugaville,Track,Track,36109,334,9905497,37080,32.3084355,-86.2231566
+104,102936,1,Alabama,AL,"Autauga County",Ramer,Autaugaville,Track,Track,36069,334,322817898,1399522,32.0637351,-86.0722109
+105,102946,1,Alabama,AL,"Autauga County",Decatur,Autaugaville,Track,Track,35601,256,5750081,112655,34.6096797,-87.0198689
+106,102956,1,Alabama,AL,"Autauga County",Decatur,Autaugaville,Track,Track,35603,256,4144053,2397,34.5540918,-87.010172
+107,102966,1,Alabama,AL,"Autauga County",Eva,Autaugaville,Track,Track,35621,256,247422337,923083,34.3558416,-86.7007545
+108,102976,1,Alabama,AL,"Autauga County",Aliceville,Autaugaville,Track,Track,35442,205,936899340,19721381,33.143676,-88.1111873
+109,102986,1,Alabama,AL,"Autauga County",Woodland,Autaugaville,Track,Track,36280,256,259326168,155664,33.3674567,-85.3379448
+110,102996,1,Alabama,AL,"Autauga County","Phenix City",Autaugaville,Track,Track,36869,334,20360276,103449,32.4323882,-85.0346206
+111,1011000,1,Alabama,AL,"Mobile County",Chickasaw,"Chickasaw city",City,place,36611,251,10894952,909156,30.77145,-88.079697
+112,1011010,1,Alabama,AL,"Barbour County",Louisville,"Clio city",City,place,36048,334,26070325,23254,31.708516,-85.611039
+113,1011020,1,Alabama,AL,"Shelby County",Columbiana,"Columbiana city",City,place,35051,205,44835274,261034,33.191452,-86.615618
+114,1011030,1,Alabama,AL,"Mobile County",Satsuma,"Creola city",City,place,36572,251,36878729,2374530,30.874343,-88.009442
+115,1011040,1,Alabama,AL,"Mobile County","Dauphin Island","Dauphin Island",Town,place,36528,251,16204185,413605152,30.250913,-88.171268
+116,1011050,1,Alabama,AL,"Cullman County",Cullman,"Dodge City",Town,place,35057,256,8913021,26837,34.045414,-86.88267
+117,1011060,1,Alabama,AL,"Escambia County","East Brewton","East Brewton city",City,place,36426,251,8826252,91015,31.09144,-87.055345
+118,1011070,1,Alabama,AL,"Elmore County",Coosada,Elmore,Town,place,36020,334,10222339,176500,32.544337,-86.336446
+119,1011080,1,Alabama,AL,"Morgan County",Eva,Eva,Town,place,35621,256,10544874,78981,34.326504,-86.765318
+120,1011090,1,Alabama,AL,"Talladega County",Sylacauga,Fayetteville,CDP,place,35151,256,45178321,6034534,33.168097,-86.442774
+121,1011100,1,Alabama,AL,"DeKalb County",Rainsville,"Fort Payne city",City,place,35986,256,145527967,924063,34.457329,-85.689447
+122,1011110,1,Alabama,AL,"Etowah County",Gadsden,"Gadsden city",City,place,35901,256,96637272,3060329,34.009563,-86.015643
+123,1011120,1,Alabama,AL,"Butler County",Georgiana,Georgiana,Town,place,36033,334,16154540,0,31.639134,-86.746762
+124,1011130,1,Alabama,AL,"Coosa County",Rockford,Goodwater,Town,place,35136,256,16819854,75870,33.060835,-86.052333
+125,1011140,1,Alabama,AL,"Hale County",Greensboro,"Greensboro city",City,place,36744,334,6156793,24951,32.700968,-87.5937
+126,1011150,1,Alabama,AL,"Marion County",Guin,Gu-Win,Town,place,35563,205,5028328,0,33.944319,-87.870368
+127,1011160,1,Alabama,AL,"Geneva County",Hartford,"Hartford city",City,place,36344,334,16152099,37439,31.105348,-85.691225
+128,1011170,1,Alabama,AL,"Jefferson County",Helena,"Helena city",City,place,35080,205,53950336,833954,33.285635,-86.874488
+129,1011180,1,Alabama,AL,"Etowah County","Hokes Bluff","Hokes Bluff city",City,place,35903,256,30893300,423908,33.989682,-85.862873
+130,1011190,1,Alabama,AL,"Covington County",Opp,"Horn Hill",Town,place,36467,334,6618368,135412,31.238158,-86.325104
+131,1011200,1,Alabama,AL,"Etowah County",Attalla,Ivalee,CDP,place,35954,256,19297932,0,34.0372,-86.147175
+132,1011210,1,Alabama,AL,"Lamar County",Millport,Kennedy,Town,place,35576,205,7948840,0,33.580891,-87.986179
+133,1011220,1,Alabama,AL,"Jackson County",Section,Langston,Town,place,35771,256,12755795,8595968,34.545063,-86.09335
+134,1011230,1,Alabama,AL,"Covington County",Andalusia,Libertyville,Town,place,36420,334,1347464,7932,31.24398,-86.46015
+135,1011240,1,Alabama,AL,"Covington County",Lockhart,Lockhart,Town,place,36455,334,2818242,103127,31.013011,-86.350273
+136,1011250,1,Alabama,AL,"Washington County",Mcintosh,McIntosh,Town,place,36553,251,2579767,0,31.264957,-88.028369
+137,1011260,1,Alabama,AL,"Chilton County",Maplesville,Maplesville,Town,place,36750,334,8463711,104846,32.788282,-86.876651
+138,1011270,1,Alabama,AL,"Jefferson County",Fairfield,"Midfield city",City,place,35064,205,6869817,0,33.455197,-86.922633
+139,1011280,1,Alabama,AL,"Mobile County",Mobile,"Mobile city",City,place,36606,251,361044263,105325210,30.668426,-88.100226
+140,1011290,1,Alabama,AL,"Lawrence County",Moulton,"Moulton city",City,place,35650,256,15525177,37270,34.488302,-87.282707
+141,1011300,1,Alabama,AL,"Colbert County","Muscle Shoals","Muscle Shoals city",City,place,35661,256,42811752,53102,34.743692,-87.633774
+142,1011310,1,Alabama,AL,"Hale County",Newbern,Newbern,Town,place,36765,334,3010370,6872,32.591672,-87.535614
+143,1011320,1,Alabama,AL,"Tuscaloosa County",Northport,"Northport city",City,place,35476,205,43353277,1016012,33.257975,-87.59647
+144,1011330,1,Alabama,AL,"Lee County",Opelika,"Opelika city",City,place,36801,334,154497144,2388300,32.660739,-85.37889
+145,1011340,1,Alabama,AL,"Sumter County",Panola,Panola,CDP,place,35477,205,1858530,3231,32.946819,-88.262264
+146,1011350,1,Alabama,AL,"Lee County",Ozark,"Phenix City city",City,place,36867,334,72497364,325619,32.461669,-85.025021
+147,1011360,1,Alabama,AL,"Autauga County",Deatsville,"Pine Level",CDP,place,36022,334,64250372,132799,32.579539,-86.454318
+148,1011370,1,Alabama,AL,"Elmore County",Prattville,"Prattville city",City,place,36067,334,86435482,2322045,32.461908,-86.457385
+149,1011380,1,Alabama,AL,"Franklin County","Red Bay","Red Bay city",City,place,35582,256,25224456,268155,34.436097,-88.136515
+150,1011390,1,Alabama,AL,"Covington County",Andalusia,"River Falls",Town,place,36421,334,17703764,675339,31.352397,-86.544609
+151,1011400,1,Alabama,AL,"Blount County",Cleveland,Rosa,Town,place,35049,205,9758714,14775,33.992756,-86.500325
+152,1011410,1,Alabama,AL,"Mobile County",Satsuma,"Saraland city",City,place,36572,251,73566058,497598,30.854581,-88.109929
+153,1011420,1,Alabama,AL,"Shelby County",Shelby,Shelby,CDP,place,35143,205,48586750,657199,33.106882,-86.585403
+154,1011430,1,Alabama,AL,"Lee County","Smiths Station","Smiths Station city",City,place,36877,334,17386667,69041,32.534662,-85.111341
+155,1011440,1,Alabama,AL,"Franklin County","Phil Campbell","Spruce Pine",CDP,place,35581,256,2403095,2825,34.39287,-87.729597
+156,1011450,1,Alabama,AL,"Walker County",Sumiton,"Sumiton city",City,place,35148,205,13529257,19710,33.749269,-87.046903
+157,1011460,1,Alabama,AL,"Tallapoosa County",Tallassee,"Tallassee city",City,place,36078,334,27817447,1526561,32.532665,-85.891993
+158,1011470,1,Alabama,AL,"Mobile County",Mobile,"Tillmans Corner",CDP,place,36619,251,33596548,99955,30.581533,-88.21278
+159,1011480,1,Alabama,AL,"Tuscaloosa County",Tuscaloosa,"Tuscaloosa city",City,place,35406,205,159585773,26058465,33.234404,-87.5283
+160,1011490,1,Alabama,AL,"Chambers County",Valley,"Valley city",City,place,36854,334,28436022,0,32.828953,-85.169386
+161,1011500,1,Alabama,AL,"St. Clair County",Vincent,Vincent,Town,place,35178,205,53311740,978770,33.383145,-86.402544
+162,1011510,1,Alabama,AL,"Chambers County","Camp Hill",Waverly,Town,place,36850,256,7054656,48649,32.730078,-85.570999
+163,1011520,1,Alabama,AL,"Cullman County",Cullman,"West Point",Town,place,35057,256,8833073,70375,34.23873,-86.964075
+164,1011530,1,Alabama,AL,"Randolph County",Woodland,Woodland,Town,place,36280,256,4036422,0,33.375627,-85.397439
+165,1021006,1,Alabama,AL,"Autauga County",Moody,Autaugaville,Track,Track,35004,205,110354665,589709,33.5467968,-86.4306179
+166,1021016,1,Alabama,AL,"Autauga County",Odenville,Autaugaville,Track,Track,35120,205,145753222,539155,33.7171728,-86.3824822
+167,1021026,1,Alabama,AL,"Autauga County",Hoover,Autaugaville,Track,Track,35242,205,10526469,723081,33.4073199,-86.7204009
+168,1021036,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35242,205,7151912,58061,33.4007267,-86.6925733
+169,1021046,1,Alabama,AL,"Autauga County",Chelsea,Autaugaville,Track,Track,35043,205,16899453,292332,33.3567902,-86.6754096
+170,1021056,1,Alabama,AL,"Autauga County",Maylene,Autaugaville,Track,Track,35114,205,8011090,34567,33.2332362,-86.8499076
+171,1021066,1,Alabama,AL,"Autauga County",Panola,Autaugaville,Track,Track,35477,205,536090556,10788078,32.863881,-88.2623312
+172,1021076,1,Alabama,AL,"Autauga County",Talladega,Autaugaville,Track,Track,35160,256,10137995,8419,33.4548311,-86.0680822
+173,1021086,1,Alabama,AL,"Autauga County",Sylacauga,Autaugaville,Track,Track,35150,256,83495162,1251432,33.1485144,-86.2131565
+174,1021096,1,Alabama,AL,"Autauga County",Dadeville,Autaugaville,Track,Track,36853,256,311017327,1997552,32.88789,-85.6951867
+175,1021106,1,Alabama,AL,"Autauga County",Northport,Autaugaville,Track,Track,35475,205,32625607,5489082,33.3231423,-87.5661153
+176,1021116,1,Alabama,AL,"Autauga County",Holt,Autaugaville,Track,Track,35404,205,9071936,478045,33.2435354,-87.4825444
+177,1021126,1,Alabama,AL,"Autauga County",Tuscaloosa,Autaugaville,Track,Track,35401,205,1160279,0,33.2031136,-87.5527647
+178,1021136,1,Alabama,AL,"Autauga County",Tuscaloosa,Autaugaville,Track,Track,35404,205,12325885,108719,33.1807268,-87.4937929
+179,1021146,1,Alabama,AL,"Autauga County",Holt,Autaugaville,Track,Track,35404,205,6641779,189874,33.2184585,-87.495102
+180,1021156,1,Alabama,AL,"Autauga County",Nauvoo,Autaugaville,Track,Track,35578,205,153528165,704066,33.9445989,-87.4646876
+181,1021166,1,Alabama,AL,"Autauga County",Millry,Autaugaville,Track,Track,36558,251,398488735,659562,31.6256633,-88.3415656
+182,1021176,1,Alabama,AL,"Autauga County",Arley,Autaugaville,Track,Track,35541,205,145680961,17493922,34.0964418,-87.2271905
+183,1021186,1,Alabama,AL,"Autauga County",Prattville,Autaugaville,Track,Track,36067,334,5349273,9054,32.4740243,-86.4597033
+184,1021196,1,Alabama,AL,"Autauga County",Elmore,Autaugaville,Track,Track,36025,334,8020338,60048,32.4473511,-86.4768097
+185,1021206,1,Alabama,AL,"Autauga County",Marbury,Autaugaville,Track,Track,36051,205,292756927,516153,32.6385222,-86.5148731
+186,1021216,1,Alabama,AL,"Autauga County",Perdido,Autaugaville,Track,Track,36562,251,971507312,37571032,31.1104762,-87.7868713
+187,1021226,1,Alabama,AL,"Autauga County","Bay Minette",Autaugaville,Track,Track,36507,251,17478851,155316,30.8969612,-87.7737368
+188,1021236,1,Alabama,AL,"Autauga County",Daphne,Autaugaville,Track,Track,36526,251,144260774,676568,30.6478335,-87.8437739
+189,1021246,1,Alabama,AL,"Autauga County",Loxley,Autaugaville,Track,Track,36551,251,55584945,274609,30.6114771,-87.7725676
+190,1021256,1,Alabama,AL,"Autauga County",Robertsdale,Autaugaville,Track,Track,36567,251,39371387,185367,30.5641292,-87.6870074
+191,1021266,1,Alabama,AL,"Autauga County",Fairhope,Autaugaville,Track,Track,36532,251,12365598,1268983,30.5408065,-87.891618
+192,1021276,1,Alabama,AL,"Autauga County",Foley,Autaugaville,Track,Track,36535,251,164751029,12027152,30.3802759,-87.7703177
+193,1021286,1,Alabama,AL,"Autauga County","Gulf Shores",Autaugaville,Track,Track,36547,251,34146324,8917573,30.2696285,-87.637277
+194,1021296,1,Alabama,AL,"Autauga County",Foley,Autaugaville,Track,Track,36535,251,51913165,450591,30.3798842,-87.6650569
+195,1021306,1,Alabama,AL,"Autauga County",Pensacola,Autaugaville,Track,Track,32506,850,81473914,35304223,30.4111645,-87.4511185
+196,1021316,1,Alabama,AL,"Autauga County",Clayton,Autaugaville,Track,Track,36016,334,343304919,397957,31.6794432,-85.5577196
+197,1021326,1,Alabama,AL,"Autauga County",Eufaula,Autaugaville,Track,Track,36027,334,14630161,380622,31.92041,-85.1757409
+198,1021336,1,Alabama,AL,"Autauga County",Brent,Autaugaville,Track,Track,35034,205,691793540,3983687,32.9533249,-87.0043466
+199,1021346,1,Alabama,AL,"Autauga County",Oneonta,Autaugaville,Track,Track,35121,205,215168178,7529147,33.8723927,-86.4590322
+200,1021356,1,Alabama,AL,"Autauga County",Cleveland,Autaugaville,Track,Track,35049,205,117119604,607001,33.9974352,-86.544238
+201,1021366,1,Alabama,AL,"Autauga County",Blountsville,Autaugaville,Track,Track,35031,205,248719996,1503784,34.0336235,-86.6373178
+202,1021376,1,Alabama,AL,"Autauga County",Hayden,Autaugaville,Track,Track,35079,205,181928636,1231658,33.9036637,-86.7813122
+203,1021386,1,Alabama,AL,"Autauga County","Union Springs",Autaugaville,Track,Track,36089,334,786335890,3475241,32.0821273,-85.8274935
+204,1021396,1,Alabama,AL,"Autauga County",Greenville,Autaugaville,Track,Track,36037,334,32192358,313969,31.7968287,-86.6541421
+205,1021406,1,Alabama,AL,"Autauga County",Mckenzie,Autaugaville,Track,Track,36456,334,264349344,236297,31.575083,-86.6086952
+206,1021416,1,Alabama,AL,"Autauga County",Anniston,Autaugaville,Track,Track,36201,256,6794602,649,33.6421021,-85.8410233
+207,1021426,1,Alabama,AL,"Autauga County",Anniston,Autaugaville,Track,Track,36207,256,16676645,14186,33.6345617,-85.7901308
+208,1021436,1,Alabama,AL,"Autauga County",Oxford,Autaugaville,Track,Track,36203,256,23519631,55597,33.6111325,-85.8764727
+209,1021446,1,Alabama,AL,"Autauga County",Anniston,Autaugaville,Track,Track,36201,256,54153086,275439,33.6132515,-85.9253597
+210,1021456,1,Alabama,AL,"Autauga County",Jacksonville,Autaugaville,Track,Track,36265,256,41129558,487657,33.7661796,-85.7864612
+211,1021466,1,Alabama,AL,"Autauga County",Jacksonville,Autaugaville,Track,Track,36265,256,13690915,23910,33.8369688,-85.7723498
+212,1021476,1,Alabama,AL,"Autauga County",Piedmont,Autaugaville,Track,Track,36272,256,87901995,514251,33.8952637,-85.5983598
+213,1021486,1,Alabama,AL,"Autauga County",Alexandria,Autaugaville,Track,Track,36250,256,97226556,796761,33.7837754,-85.9002899
+214,1021496,1,Alabama,AL,"Autauga County",Alexandria,Autaugaville,Track,Track,36250,256,89660986,294151,33.7188196,-85.9523544
+215,1021506,1,Alabama,AL,"Autauga County",Lafayette,Autaugaville,Track,Track,36862,334,675980103,2617356,32.8660782,-85.4616055
+216,1021516,1,Alabama,AL,"Autauga County",Lanett,Autaugaville,Track,Track,36863,334,132910142,178276,32.7766468,-85.2734917
+217,1021526,1,Alabama,AL,"Autauga County",Valley,Autaugaville,Track,Track,36854,334,9688028,0,32.8362807,-85.1725763
+218,1021536,1,Alabama,AL,"Autauga County","Sand Rock",Autaugaville,Track,Track,35983,256,233670765,33296082,34.1991534,-85.7578347
+219,1021546,1,Alabama,AL,"Autauga County","Spring Garden",Autaugaville,Track,Track,36275,256,373046666,29730687,34.0861716,-85.5068892
+220,1021556,1,Alabama,AL,"Autauga County",Clanton,Autaugaville,Track,Track,35045,205,64410623,251385,32.8695805,-86.6588881
+221,1021566,1,Alabama,AL,"Autauga County",Jemison,Autaugaville,Track,Track,35085,205,244387804,1211895,32.9910458,-86.8010803
+222,1021576,1,Alabama,AL,"Autauga County",Verbena,Autaugaville,Track,Track,36091,205,256404827,4346403,32.7592425,-86.5260002
+223,1021586,1,Alabama,AL,"Autauga County",Butler,Autaugaville,Track,Track,36904,205,752526706,7297622,32.0656633,-88.2128479
+224,1021596,1,Alabama,AL,"Autauga County",Thomasville,Autaugaville,Track,Track,36784,334,249006278,71854,31.7929013,-87.6425154
+225,1021606,1,Alabama,AL,"Autauga County","Grove Hill",Autaugaville,Track,Track,36451,251,832734330,4857552,31.6170174,-87.6979772
+226,1021616,1,Alabama,AL,"Autauga County",Jackson,Autaugaville,Track,Track,36545,251,107872399,2504038,31.5011616,-87.8723338
+227,1021626,1,Alabama,AL,"Autauga County",Ashland,Autaugaville,Track,Track,36251,256,383065566,777286,33.1785156,-85.7815679
+228,1021636,1,Alabama,AL,"Autauga County",Heflin,Autaugaville,Track,Track,36264,256,243823026,915596,33.6989979,-85.5727972
+229,1021646,1,Alabama,AL,"Autauga County",Jack,Autaugaville,Track,Track,36346,334,208213147,177901,31.5375844,-85.8984006
+230,1021656,1,Alabama,AL,"Autauga County",Kinston,Autaugaville,Track,Track,36453,334,128071075,606802,31.2721909,-86.1506243
+231,1021666,1,Alabama,AL,"Autauga County",Enterprise,Autaugaville,Track,Track,36330,334,40693675,151495,31.3627415,-85.8358304
+232,1021676,1,Alabama,AL,"Autauga County",Sheffield,Autaugaville,Track,Track,35660,256,4408833,784132,34.7708294,-87.6799629
+233,1021686,1,Alabama,AL,"Autauga County",Tuscumbia,Autaugaville,Track,Track,35674,256,5259140,1044191,34.7403319,-87.7337767
+234,1021696,1,Alabama,AL,"Autauga County","Muscle Shoals",Autaugaville,Track,Track,35662,256,112842678,7290274,34.7242107,-87.6264192
+235,1021706,1,Alabama,AL,"Autauga County",Leighton,Autaugaville,Track,Track,35646,256,118959123,20802427,34.774634,-87.5053473
+236,1021716,1,Alabama,AL,"Autauga County",Tuscumbia,Autaugaville,Track,Track,35674,256,259170483,7552968,34.6686652,-87.822804
+237,1021726,1,Alabama,AL,"Autauga County",Castleberry,Autaugaville,Track,Track,36432,251,480256655,3016837,31.3411108,-87.0387457
+238,1021736,1,Alabama,AL,"Autauga County",Rockford,Autaugaville,Track,Track,35136,256,251376931,1562316,32.9929287,-86.0738794
+239,1021746,1,Alabama,AL,"Autauga County",Andalusia,Autaugaville,Track,Track,36421,334,359424460,10780680,31.4420655,-86.3998913
+240,1021756,1,Alabama,AL,"Autauga County",Andalusia,Autaugaville,Track,Track,36421,334,49938350,583714,31.3443958,-86.463852
+241,1021766,1,Alabama,AL,"Autauga County",Opp,Autaugaville,Track,Track,36467,334,154675236,2461722,31.3570171,-86.2401037
+242,1021776,1,Alabama,AL,"Autauga County",Opp,Autaugaville,Track,Track,36467,334,249816869,1830023,31.1810184,-86.2787253
+243,1021786,1,Alabama,AL,"Autauga County",Luverne,Autaugaville,Track,Track,36049,334,374196528,755161,31.7244285,-86.3608435
+244,1021796,1,Alabama,AL,"Autauga County",Baileyton,Autaugaville,Track,Track,35019,256,147196339,1148200,34.2616429,-86.5683185
+245,1021806,1,Alabama,AL,"Autauga County",Vinemont,Autaugaville,Track,Track,35179,256,89849348,1236612,34.2715006,-86.8345066
+246,1021816,1,Alabama,AL,"Autauga County",Cullman,Autaugaville,Track,Track,35055,256,70914526,477574,34.1565069,-86.8940425
+247,1021826,1,Alabama,AL,"Autauga County",Cullman,Autaugaville,Track,Track,35055,256,47570866,2530408,34.2012855,-86.8254882
+248,1021836,1,Alabama,AL,"Autauga County",Cullman,Autaugaville,Track,Track,35055,256,54256128,667061,34.117682,-86.7963608
+249,1021846,1,Alabama,AL,"Autauga County","Garden City",Autaugaville,Track,Track,35070,256,125741724,1106561,33.9980493,-86.7870516
+250,1021856,1,Alabama,AL,"Autauga County","Ft Rucker",Autaugaville,Track,Track,36362,334,172610491,2735224,31.4097368,-85.7458071
+251,1021866,1,Alabama,AL,"Autauga County",Ozark,Autaugaville,Track,Track,36360,334,61929515,413858,31.4833011,-85.6497139
+252,1021876,1,Alabama,AL,"Autauga County",Ozark,Autaugaville,Track,Track,36360,334,36136505,194310,31.4149425,-85.6413488
+253,1021886,1,Alabama,AL,"Autauga County",Daleville,Autaugaville,Track,Track,36322,334,23042778,0,31.3021556,-85.7056542
+254,1021896,1,Alabama,AL,"Autauga County","Midland City",Autaugaville,Track,Track,36350,334,110987657,53907,31.3374977,-85.4657416
+255,1021906,1,Alabama,AL,"Autauga County",Selma,Autaugaville,Track,Track,36703,334,182250003,1051254,32.5526588,-87.0352646
+256,1021916,1,Alabama,AL,"Autauga County",Selma,Autaugaville,Track,Track,36701,334,2711300,43964,32.4157042,-87.0280529
+257,1021926,1,Alabama,AL,"Autauga County",Orrville,Autaugaville,Track,Track,36767,334,541139544,6763758,32.3256691,-87.2191795
+258,1021936,1,Alabama,AL,"Autauga County",Selma,Autaugaville,Track,Track,36701,334,173119838,4647634,32.3277469,-86.8942838
+259,1021946,1,Alabama,AL,"Autauga County",Rainsville,Autaugaville,Track,Track,36986,256,108426406,467193,34.5326223,-85.8630796
+260,1021956,1,Alabama,AL,"Autauga County",Fyffe,Autaugaville,Track,Track,35971,256,214238075,23139,34.4340842,-85.9687233
+261,1021966,1,Alabama,AL,"Autauga County",Crossville,Autaugaville,Track,Track,35962,256,151362799,244096,34.2571822,-86.025488
+262,1021976,1,Alabama,AL,"Autauga County","Ft Payne",Autaugaville,Track,Track,35967,256,116782043,31876,34.3660315,-85.6964687
+263,1021986,1,Alabama,AL,"Autauga County","Fort Payne",Autaugaville,Track,Track,35967,256,91371430,86324,34.4574952,-85.635214
+264,1021996,1,Alabama,AL,"Autauga County",Deatsville,Autaugaville,Track,Track,36022,334,280794165,9491833,32.6948549,-86.2223176
+265,1022006,1,Alabama,AL,"Autauga County",Eclectic,Autaugaville,Track,Track,36024,334,165330802,1570890,32.6328834,-86.0345965
+266,1022016,1,Alabama,AL,"Autauga County",Wetumpka,Autaugaville,Track,Track,36092,334,105723667,2997228,32.5201384,-86.1722101
+267,1022026,1,Alabama,AL,"Autauga County",Millbrook,Autaugaville,Track,Track,36054,334,23526031,97124,32.4977055,-86.3883595
+268,1022036,1,Alabama,AL,"Autauga County","East Brewton",Autaugaville,Track,Track,36426,251,944040122,9556480,31.0992573,-86.9105903
+269,1022046,1,Alabama,AL,"Autauga County",Brewton,Autaugaville,Track,Track,36426,251,105290359,1106327,31.190044,-87.0635248
+270,1022056,1,Alabama,AL,"Autauga County",Atmore,Autaugaville,Track,Track,36504,251,169008231,407668,31.0717073,-87.4897027
+271,1022066,1,Alabama,AL,"Autauga County",Gadsden,Autaugaville,Track,Track,35901,256,13659980,699379,34.0321863,-85.9730613
+272,1022076,1,Alabama,AL,"Autauga County",Gadsden,Autaugaville,Track,Track,35901,256,22461766,717,34.0476407,-86.0342629
+273,1022086,1,Alabama,AL,"Autauga County",Gadsden,Autaugaville,Track,Track,35904,256,11907025,744917,34.0003469,-86.0427603
+274,1022096,1,Alabama,AL,"Autauga County",Gadsden,Autaugaville,Track,Track,35901,256,4308625,1900493,33.9993815,-86.010319
+275,1022106,1,Alabama,AL,"Autauga County",Gadsden,Autaugaville,Track,Track,35904,256,32549925,0,34.064083,-86.0661828
+276,1022116,1,Alabama,AL,"Autauga County","Rainbow City",Autaugaville,Track,Track,35906,256,7358690,571695,33.9640619,-86.041835
+277,1022126,1,Alabama,AL,"Autauga County",Glencoe,Autaugaville,Track,Track,35905,256,57350608,1090995,33.918413,-85.9183325
+278,1022136,1,Alabama,AL,"Autauga County",Attalla,Autaugaville,Track,Track,35954,256,95634687,48836,34.1470152,-86.0149509
+279,1022146,1,Alabama,AL,"Autauga County",Gadsden,Autaugaville,Track,Track,35903,256,2384912,0,34.0013946,-85.9674865
+280,1022156,1,Alabama,AL,"Autauga County",Fayette,Autaugaville,Track,Track,35555,205,154824533,270991,33.7012455,-87.8909439
+281,1022166,1,Alabama,AL,"Autauga County",Berry,Autaugaville,Track,Track,35546,205,427697476,551762,33.6476543,-87.6143541
+282,1022176,1,Alabama,AL,"Autauga County",Russellville,Autaugaville,Track,Track,35653,256,28670329,255395,34.5125993,-87.7533372
+283,1022186,1,Alabama,AL,"Autauga County",Vina,Autaugaville,Track,Track,35593,256,145933248,3961461,34.4392881,-88.0399565
+284,1022196,1,Alabama,AL,"Autauga County",Samson,Autaugaville,Track,Track,36477,334,431950139,5093030,31.0847817,-86.0861751
+285,1022206,1,Alabama,AL,"Autauga County",Hartford,Autaugaville,Track,Track,36344,334,340277721,2883643,31.0696505,-85.7368633
+286,1022216,1,Alabama,AL,"Autauga County",Slocomb,Autaugaville,Track,Track,36375,334,163344878,441458,31.0860719,-85.5280322
+287,1022226,1,Alabama,AL,"Autauga County",Boligee,Autaugaville,Track,Track,35443,205,570899935,17720962,32.6861323,-87.9472665
+288,1022236,1,Alabama,AL,"Autauga County",Greensboro,Autaugaville,Track,Track,36744,334,228114074,6829355,32.6514361,-87.6504698
+289,1022246,1,Alabama,AL,"Autauga County","Fort Gaines",Autaugaville,Track,Track,39851,229,338005193,15802160,31.6127173,-85.1367411
+290,1022256,1,Alabama,AL,"Autauga County",Newton,Autaugaville,Track,Track,36352,334,137915812,47148,31.2347868,-85.5932271
+291,1022266,1,Alabama,AL,"Autauga County",Dothan,Autaugaville,Track,Track,36303,334,6427118,0,31.2531951,-85.4134185
+292,1022276,1,Alabama,AL,"Autauga County",Dothan,Autaugaville,Track,Track,36301,334,4335935,0,31.2200822,-85.4193412
+293,1022286,1,Alabama,AL,"Autauga County",Dothan,Autaugaville,Track,Track,36301,334,26146230,172344,31.1821874,-85.3530797
+294,1022296,1,Alabama,AL,"Autauga County",Dothan,Autaugaville,Track,Track,36303,334,15035691,23761,31.2388804,-85.3512422
+295,1022306,1,Alabama,AL,"Autauga County",Webb,Autaugaville,Track,Track,36376,334,142938740,185385,31.268835,-85.2759901
+296,1022316,1,Alabama,AL,"Autauga County",Ashford,Autaugaville,Track,Track,36312,334,179161258,826932,31.1644974,-85.24685
+297,1022326,1,Alabama,AL,"Autauga County",Higdon,Autaugaville,Track,Track,35979,256,348636949,13619157,34.8513417,-85.7000137
+298,1022336,1,Alabama,AL,"Autauga County",Stevenson,Autaugaville,Track,Track,35772,256,555430767,18659777,34.8863961,-85.9296764
+299,1022346,1,Alabama,AL,"Autauga County",Scottsboro,Autaugaville,Track,Track,35768,256,278821855,2385911,34.7615314,-86.0476196
+300,1022356,1,Alabama,AL,"Autauga County",Scottsboro,Autaugaville,Track,Track,35768,256,11358571,0,34.6633617,-86.0358725
+301,1022366,1,Alabama,AL,"Autauga County",Section,Autaugaville,Track,Track,35771,256,284172822,31310700,34.5699175,-85.9716149
+302,1022376,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35212,205,2093103,0,33.5428209,-86.752434
+303,1022386,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35212,205,4819145,0,33.5442405,-86.7749128
+304,1022396,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35214,205,11428318,3862,33.5423337,-86.8765161
+305,1022406,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35204,205,2241302,0,33.5261497,-86.8351469
+306,1022416,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35212,334,3341543,0,33.553205,-86.7429805
+307,1022426,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35212,334,1884661,0,33.5521302,-86.727676
+308,1022436,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35202,205,8338981,0,33.5260747,-86.7830317
+309,1022446,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35204,205,2334504,0,33.5132498,-86.8300472
+310,1022456,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35218,205,2247405,0,33.5059585,-86.8745531
+311,1022466,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35218,205,2048616,0,33.5052228,-86.9014846
+312,1022476,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35208,205,2316098,0,33.4847637,-86.8981396
+313,1022486,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35211,205,2701339,0,33.4859451,-86.8696926
+314,1022496,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35204,205,3056205,0,33.5007439,-86.8270718
+315,1022506,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35222,205,2542349,5771,33.5108808,-86.7744712
+316,1022516,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35205,205,2422849,0,33.4866689,-86.8173266
+317,1022526,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35211,205,4595599,0,33.4806707,-86.8508677
+318,1022536,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35213,205,4275124,0,33.5206824,-86.7260226
+319,1022546,1,Alabama,AL,"Autauga County",Homewood,Autaugaville,Track,Track,35209,205,2538262,0,33.4775177,-86.8149403
+320,1022556,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35215,205,2938067,21921,33.6222102,-86.6790265
+321,1022566,1,Alabama,AL,"Autauga County",Hueytown,Autaugaville,Track,Track,35023,205,11117471,0,33.4525316,-87.0036566
+322,1022576,1,Alabama,AL,"Autauga County",Bessemer,Autaugaville,Track,Track,35020,205,3637059,0,33.4009536,-86.9632652
+323,1022586,1,Alabama,AL,"Autauga County",Bessemer,Autaugaville,Track,Track,35020,205,3959510,0,33.3813794,-86.9602115
+324,1022596,1,Alabama,AL,"Autauga County",Fairfield,Autaugaville,Track,Track,35064,205,5945645,0,33.4817033,-86.9143356
+325,1022606,1,Alabama,AL,"Autauga County",Homewood,Autaugaville,Track,Track,35209,205,2006630,11987,33.475966,-86.7786575
+326,1022616,1,Alabama,AL,"Autauga County","Mountain Brook",Autaugaville,Track,Track,35213,205,5012892,18719,33.4947146,-86.7636042
+327,1022626,1,Alabama,AL,"Autauga County","Mountain Brook",Autaugaville,Track,Track,35213,205,8619390,5292,33.5124499,-86.7174833
+328,1022636,1,Alabama,AL,"Autauga County",Tarrant,Autaugaville,Track,Track,35217,205,5538290,0,33.5796117,-86.7705036
+329,1022646,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35215,205,13811198,15145,33.6373216,-86.6374915
+330,1022656,1,Alabama,AL,"Autauga County",Trussville,Autaugaville,Track,Track,35173,205,60630455,1508804,33.6062979,-86.5848428
+331,1022666,1,Alabama,AL,"Autauga County",Trussville,Autaugaville,Track,Track,35173,205,40236898,388820,33.7258147,-86.5900686
+332,1022676,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35220,205,7511055,70529,33.6691522,-86.6511913
+333,1022686,1,Alabama,AL,"Autauga County",Kimberly,Autaugaville,Track,Track,35091,205,51324198,28998,33.7826093,-86.7857118
+334,1022696,1,Alabama,AL,"Autauga County","Mount Olive",Autaugaville,Track,Track,35117,205,105701999,497054,33.6819146,-86.9203958
+335,1022706,1,Alabama,AL,"Autauga County",Gardendale,Autaugaville,Track,Track,35071,205,40159982,0,33.6758356,-86.7966575
+336,1022716,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35215,205,2990953,0,33.6453495,-86.6958458
+337,1022726,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35214,205,36753561,0,33.5983142,-86.8788573
+338,1022736,1,Alabama,AL,"Autauga County",Graysville,Autaugaville,Track,Track,35073,205,56885352,537614,33.6350049,-86.9946308
+339,1022746,1,Alabama,AL,"Autauga County","Pleasant Grove",Autaugaville,Track,Track,35127,205,15730156,0,33.4820282,-86.9862506
+340,1022756,1,Alabama,AL,"Autauga County",Adamsville,Autaugaville,Track,Track,35005,205,31049873,865351,33.5764455,-86.9673879
+341,1022766,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35206,205,21086022,35558,33.5657458,-86.6703475
+342,1022776,1,Alabama,AL,"Autauga County","Vestavia Hills",Autaugaville,Track,Track,35243,205,2833922,376,33.4582894,-86.7384274
+343,1022786,1,Alabama,AL,"Autauga County","Vestavia Hills",Autaugaville,Track,Track,35216,205,7245031,4072,33.4205046,-86.7859249
+344,1022796,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35243,205,6387321,161177,33.4278537,-86.7318809
+345,1022806,1,Alabama,AL,"Autauga County",Homewood,Autaugaville,Track,Track,35209,205,2840373,17081,33.4535392,-86.795517
+346,1022816,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35221,205,6029566,0,33.4480924,-86.8892598
+347,1022826,1,Alabama,AL,"Autauga County",Fairfield,Autaugaville,Track,Track,35064,205,4936853,0,33.4589571,-86.936987
+348,1022836,1,Alabama,AL,"Autauga County",Fairfield,Autaugaville,Track,Track,35064,205,11809407,0,33.4753834,-86.9481309
+349,1022846,1,Alabama,AL,"Autauga County",Bessemer,Autaugaville,Track,Track,35023,205,356058496,8645511,33.3897822,-87.181015
+350,1022856,1,Alabama,AL,"Autauga County",Mccalla,Autaugaville,Track,Track,35111,205,94428175,1010203,33.2874081,-87.0030024
+351,1022866,1,Alabama,AL,"Autauga County",Bessemer,Autaugaville,Track,Track,35020,205,15638999,169916,33.3512428,-86.9599146
+352,1022876,1,Alabama,AL,"Autauga County",Hoover,Autaugaville,Track,Track,35226,205,7089816,10008,33.4013174,-86.8279736
+353,1022886,1,Alabama,AL,"Autauga County",Hoover,Autaugaville,Track,Track,35226,205,18071006,173459,33.3822004,-86.8552686
+354,1022896,1,Alabama,AL,"Autauga County",Vernon,Autaugaville,Track,Track,35592,205,493059889,850894,33.766138,-88.0979273
+355,1022906,1,Alabama,AL,"Autauga County",Sheffield,Autaugaville,Track,Track,35660,256,3244664,760149,34.784265,-87.6863587
+356,1022916,1,Alabama,AL,"Autauga County",Florence,Autaugaville,Track,Track,35630,256,1960895,1340,34.8103953,-87.6709633
+357,1022926,1,Alabama,AL,"Autauga County",Florence,Autaugaville,Track,Track,35630,256,9833989,17892,34.8330772,-87.6519647
+358,1022936,1,Alabama,AL,"Autauga County",Florence,Autaugaville,Track,Track,35630,256,20641113,107786,34.8422452,-87.7079565
+359,1022946,1,Alabama,AL,"Autauga County",Florence,Autaugaville,Track,Track,35633,256,216694495,712481,34.9480952,-87.7848039
+360,1022956,1,Alabama,AL,"Autauga County",Florence,Autaugaville,Track,Track,35634,256,138349445,2374297,34.9295054,-87.63545
+361,1022966,1,Alabama,AL,"Autauga County",Killen,Autaugaville,Track,Track,35645,256,74751483,16582673,34.8504713,-87.4793577
+362,1022976,1,Alabama,AL,"Autauga County",Rogersville,Autaugaville,Track,Track,35652,256,76318747,23100357,34.8122679,-87.3043693
+363,1022986,1,Alabama,AL,"Autauga County","Town Creek",Autaugaville,Track,Track,35672,256,226969791,1721123,34.5666247,-87.418451
+364,1022996,1,Alabama,AL,"Autauga County",Trinity,Autaugaville,Track,Track,35673,256,117628141,989972,34.57105,-87.2129882
+365,1023006,1,Alabama,AL,"Autauga County","Mt Hope",Autaugaville,Track,Track,35651,256,361366358,1982766,34.4039525,-87.4562458
+366,1023016,1,Alabama,AL,"Autauga County",Auburn,Autaugaville,Track,Track,36830,334,8346226,18151,32.5848885,-85.4806812
+367,1023026,1,Alabama,AL,"Autauga County",Auburn,Autaugaville,Track,Track,36830,334,5768508,35694,32.5955157,-85.4933037
+368,1023036,1,Alabama,AL,"Autauga County",Auburn,Autaugaville,Track,Track,36830,334,4146900,16399,32.6207235,-85.468112
+369,1023046,1,Alabama,AL,"Autauga County",Opelika,Autaugaville,Track,Track,36801,334,47984472,237279,32.7027529,-85.3847912
+370,1023056,1,Alabama,AL,"Autauga County",Opelika,Autaugaville,Track,Track,36801,334,134283525,589514,32.6314047,-85.3521047
+371,1023066,1,Alabama,AL,"Autauga County",Salem,Autaugaville,Track,Track,36874,334,253715367,6829853,32.5985333,-85.1564072
+372,1023076,1,Alabama,AL,"Autauga County","Smiths Station",Autaugaville,Track,Track,36877,334,13567898,0,32.5103593,-85.118585
+373,1023086,1,Alabama,AL,"Autauga County",Athens,Autaugaville,Track,Track,35613,256,82446982,539373,34.8681621,-86.8659585
+374,1023096,1,Alabama,AL,"Autauga County",Elkmont,Autaugaville,Track,Track,35620,256,171352666,937318,34.9326041,-86.9769708
+375,1023106,1,Alabama,AL,"Autauga County",Athens,Autaugaville,Track,Track,35611,256,4698718,890,34.8025463,-86.9899793
+376,1023116,1,Alabama,AL,"Autauga County",Athens,Autaugaville,Track,Track,35613,256,56703711,404012,34.7766286,-86.8419932
+377,1023126,1,Alabama,AL,"Autauga County",Madison,Autaugaville,Track,Track,35758,256,230411965,33529525,34.6474493,-86.8534466
+378,1023136,1,Alabama,AL,"Autauga County","Fort Deposit",Autaugaville,Track,Track,36032,334,474381284,2112248,32.0180975,-86.6009099
+379,1023146,1,Alabama,AL,"Autauga County","Tuskegee Institute",Autaugaville,Track,Track,36088,334,79140905,1016081,32.4628483,-85.7815478
+380,1023156,1,Alabama,AL,"Autauga County",Shorter,Autaugaville,Track,Track,36075,334,272456881,2681619,32.3575498,-85.8947986
+381,1023166,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35810,256,3746454,2577,34.7832877,-86.5893471
+382,1023176,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35810,256,1995502,0,34.7679304,-86.6346783
+383,1023186,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35810,256,3164264,897,34.7552435,-86.6030659
+384,1023196,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35811,256,2325387,0,34.7422454,-86.5731181
+385,1023206,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35806,256,20318331,268264,34.7227438,-86.6787178
+386,1023216,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35801,256,10852825,1515,34.7351055,-86.5436849
+387,1023226,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35816,256,3384385,36536,34.7175673,-86.6067012
+388,1023236,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35805,256,2624766,25144,34.6875967,-86.6143778
+389,1023246,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35502,256,4129644,0,34.6915398,-86.5750836
+390,1023256,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35803,256,11668517,520555,34.6050882,-86.5713234
+391,1023266,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35803,256,6647466,0,34.6127548,-86.5329573
+392,1023276,1,Alabama,AL,"Autauga County","New Market",Autaugaville,Track,Track,35761,256,283364358,1322529,34.917897,-86.3494794
+393,1023286,1,Alabama,AL,"Autauga County","New Market",Autaugaville,Track,Track,35761,256,71128728,299798,34.9504742,-86.5026248
+394,1023296,1,Alabama,AL,"Autauga County",Madison,Autaugaville,Track,Track,35758,256,14806799,81262,34.762748,-86.7550507
+395,1023306,1,Alabama,AL,"Autauga County",Harvest,Autaugaville,Track,Track,35749,256,12842670,56874,34.7912574,-86.7652283
+396,1023316,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35811,256,62434261,418101,34.7623828,-86.4951024
+397,1023326,1,Alabama,AL,"Autauga County",Madison,Autaugaville,Track,Track,35758,256,11103274,22474,34.7373139,-86.7646588
+398,1023336,1,Alabama,AL,"Autauga County",Madison,Autaugaville,Track,Track,35758,334,11334346,60848,34.6854417,-86.7645134
+399,1023346,1,Alabama,AL,"Autauga County","Owens Cross Roads",Autaugaville,Track,Track,35763,256,161262786,5308265,34.5605701,-86.4793214
+400,1023356,1,Alabama,AL,"Autauga County",Linden,Autaugaville,Track,Track,36748,334,684444831,3497306,32.2755299,-87.8084087
+401,1023366,1,Alabama,AL,"Autauga County","Dixons Mills",Autaugaville,Track,Track,36736,334,286336268,54771,32.0620795,-87.7277351
+402,1023376,1,Alabama,AL,"Autauga County",Linden,Autaugaville,Track,Track,36748,334,269287258,1993649,34.2081076,-87.721786
+403,1023386,1,Alabama,AL,"Autauga County",Hamilton,Autaugaville,Track,Track,35570,205,229517860,71618,34.1982117,-87.949109
+404,1023396,1,Alabama,AL,"Autauga County",Guin,Autaugaville,Track,Track,35563,205,149020339,38718,33.9867017,-87.9021266
+405,1023406,1,Alabama,AL,"Autauga County",Grant,Autaugaville,Track,Track,35747,256,140557578,15033151,34.5246512,-86.2046333
+406,1023416,1,Alabama,AL,"Autauga County","Union Grove",Autaugaville,Track,Track,35175,256,212312408,11263467,34.4178011,-86.463898
+407,1023426,1,Alabama,AL,"Autauga County",Arab,Autaugaville,Track,Track,35016,256,75997846,417494,34.3314599,-86.4419583
+408,1023436,1,Alabama,AL,"Autauga County",Guntersville,Autaugaville,Track,Track,35976,256,43587610,22086593,34.3505036,-86.2555798
+409,1023446,1,Alabama,AL,"Autauga County",Albertville,Autaugaville,Track,Track,35951,256,52906932,173258,34.2684564,-86.1499051
+410,1023456,1,Alabama,AL,"Autauga County",Albertville,Autaugaville,Track,Track,35950,256,47224676,137799,34.2558623,-86.2776418
+411,1023466,1,Alabama,AL,"Autauga County",Boaz,Autaugaville,Track,Track,35957,256,28926937,122957,34.211084,-86.1353109
+412,1023476,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36617,251,2106175,28837,30.711631,-88.0763917
+413,1023486,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36617,251,3172855,15917,30.7063416,-88.093464
+414,1023496,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36604,251,1453106,0,30.6779766,-88.060697
+415,1023506,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36605,251,1737737,0,30.668198,-88.0769678
+416,1023516,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36605,251,5320481,984861,30.6020753,-88.0987938
+417,1023526,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36605,251,2859688,18331,30.6489528,-88.0983469
+418,1023536,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36606,251,2756233,0,30.6798293,-88.0933073
+419,1023546,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36606,251,3446291,0,30.6825772,-88.114479
+420,1023556,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36693,251,6167571,30455,30.6453523,-88.1427778
+421,1023566,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36609,251,1936934,8343,30.6610364,-88.1416111
+422,1023576,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36618,251,3399167,8625,30.7140322,-88.1460227
+423,1023586,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36608,251,3942337,22096,30.6858694,-88.1588421
+424,1023596,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36608,251,3803117,2011,30.673824,-88.2030668
+425,1023606,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36693,251,4796168,0,30.6267741,-88.1989549
+426,1023616,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36617,251,1667955,0,30.721504,-88.1042551
+427,1023626,1,Alabama,AL,"Autauga County",Whistler,Autaugaville,Track,Track,36613,251,5186346,7066,30.7503663,-88.1166709
+428,1023636,1,Alabama,AL,"Autauga County",Saraland,Autaugaville,Track,Track,36571,251,4520294,42789,30.8245364,-88.0784836
+429,1023646,1,Alabama,AL,"Autauga County","Mount Vernon",Autaugaville,Track,Track,36560,251,288291555,6975925,31.0707011,-88.0654398
+430,1023656,1,Alabama,AL,"Autauga County",Wilmer,Autaugaville,Track,Track,36587,251,119553238,413472,30.8819066,-88.2158005
+431,1023666,1,Alabama,AL,"Autauga County",Semmes,Autaugaville,Track,Track,36575,251,29578145,83695,30.7536706,-88.2468888
+432,1023676,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36695,251,8957994,72201,30.6628949,-88.213545
+433,1023686,1,Alabama,AL,"Autauga County","Grand Bay",Autaugaville,Track,Track,36541,251,154049784,768448,30.5565858,-88.3414467
+434,1023696,1,Alabama,AL,"Autauga County",Irvington,Autaugaville,Track,Track,36544,251,44929027,78388,30.5154023,-88.2381941
+435,1023706,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36619,251,4691292,1574,30.5839887,-88.1877044
+436,1023716,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36605,251,47845775,7049110,30.4884587,-88.13197
+437,1023726,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36605,251,14483493,2204002,30.6302101,-88.069879
+438,1023736,1,Alabama,AL,"Autauga County","Bayou La Batre",Autaugaville,Track,Track,36509,251,0,780526158,30.2698833,-88.2923593
+439,1023746,1,Alabama,AL,"Autauga County",Monroeville,Autaugaville,Track,Track,36461,251,267821013,5094852,31.5314913,-87.468258
+440,1023756,1,Alabama,AL,"Autauga County",Uriah,Autaugaville,Track,Track,36480,251,427194441,5527227,31.3250054,-87.5991274
+441,1023766,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36107,334,5059603,0,32.3972125,-86.2846517
+442,1023776,1,Alabama,AL,"Autauga County",Montgmomery,Autaugaville,Track,Track,36109,334,1377521,0,32.3635327,-86.308144
+443,1023786,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36108,334,3561874,6703,32.3613688,-86.3289447
+444,1023796,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36106,334,2354058,0,32.3612257,-86.2834307
+445,1023806,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36109,334,5052075,4085,32.3732999,-86.2551197
+446,1023816,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36111,334,5844507,19635,32.3408795,-86.271527
+447,1023826,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36105,334,3121070,0,32.3356125,-86.3078025
+448,1023836,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36108,334,3709019,57096,32.341301,-86.3351156
+449,1023846,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36109,334,7270672,8760,32.3747656,-86.2294064
+450,1023856,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36108,334,10571245,10928,32.3515219,-86.360195
+451,1023866,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36116,334,9503322,78827,32.3061941,-86.2681672
+452,1023876,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36110,334,72008073,5185411,32.4484229,-86.2496859
+453,1023886,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36109,334,5672910,169270,32.4098492,-86.2260841
+454,1023896,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36117,334,14911832,249584,32.353685,-86.16183
+455,1023906,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36117,334,2372259,55032,32.3578287,-86.2043556
+456,1023916,1,Alabama,AL,"Autauga County","Pike Road",Autaugaville,Track,Track,36064,334,18852505,115393,32.3507685,-86.0979514
+457,1023926,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36116,334,5475910,15714,32.3289802,-86.2081876
+458,1023936,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36117,334,8442565,50415,32.3092917,-86.1857537
+459,1023946,1,Alabama,AL,"Autauga County","Hope Hull",Autaugaville,Track,Track,36043,334,385289932,6304196,32.198998,-86.3443832
+460,1023956,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36108,334,7325894,136874,32.3175536,-86.3782976
+461,1023966,1,Alabama,AL,"Autauga County",Decatur,Autaugaville,Track,Track,35601,256,5708780,73903,34.5712507,-86.9706149
+462,1023976,1,Alabama,AL,"Autauga County",Decatur,Autaugaville,Track,Track,35601,256,2544143,0,34.5819489,-86.9944642
+463,1023986,1,Alabama,AL,"Autauga County",Decatur,Autaugaville,Track,Track,35603,256,7715233,746835,34.5167777,-86.9711349
+464,1023996,1,Alabama,AL,"Autauga County",Decatur,Autaugaville,Track,Track,35601,256,8402134,742234,34.5494071,-86.9778507
+465,1024006,1,Alabama,AL,"Autauga County",Hartselle,Autaugaville,Track,Track,35640,256,80519151,3723826,34.4937594,-86.9171854
+466,1024016,1,Alabama,AL,"Autauga County",Somerville,Autaugaville,Track,Track,35670,256,168808472,3972677,34.4805794,-86.7691975
+467,1024026,1,Alabama,AL,"Autauga County",Eva,Autaugaville,Track,Track,35621,256,247422337,923083,34.3558416,-86.7007545
+468,1024036,1,Alabama,AL,"Autauga County",Marion,Autaugaville,Track,Track,36756,334,620129645,3924160,32.7209723,-87.3956331
+469,1024046,1,Alabama,AL,"Autauga County",Gordo,Autaugaville,Track,Track,35466,205,286698885,289306,33.3973636,-87.8929221
+470,1024056,1,Alabama,AL,"Autauga County",Carrollton,Autaugaville,Track,Track,35447,205,390834113,798185,33.2779491,-88.1679491
+471,1024066,1,Alabama,AL,"Autauga County",Troy,Autaugaville,Track,Track,36081,334,342666857,517750,31.8646421,-86.103939
+472,1024076,1,Alabama,AL,"Autauga County",Troy,Autaugaville,Track,Track,36081,334,64845109,83964,31.7469327,-85.9138355
+473,1024086,1,Alabama,AL,"Autauga County",Wedowee,Autaugaville,Track,Track,36278,256,356623311,2075543,33.4264515,-85.5226826
+474,1024096,1,Alabama,AL,"Autauga County",Roanoke,Autaugaville,Track,Track,36274,334,180027927,1431375,33.2143355,-85.3592685
+475,1024106,1,Alabama,AL,"Autauga County","Phenix City",Autaugaville,Track,Track,36867,334,1523115,2802,32.4742814,-85.0069988
+476,1024116,1,Alabama,AL,"Autauga County","Phenix City",Autaugaville,Track,Track,36870,334,6146699,19786,32.4815891,-85.0367586
+477,1024126,1,Alabama,AL,"Autauga County","Phenix City",Autaugaville,Track,Track,36868,334,62539017,381589,32.436776,-85.0748664
+478,1024136,1,Alabama,AL,"Autauga County","Phenix City",Autaugaville,Track,Track,36868,334,446860783,1401991,32.2688008,-85.3491716
+479,1024146,1,Alabama,AL,"Autauga County",Moody,Autaugaville,Track,Track,35004,205,84609138,336997,33.6147327,-86.403975
+480,1024156,1,Alabama,AL,"Autauga County","Pell City",Autaugaville,Track,Track,35128,205,47375621,5690122,33.5644016,-86.2404965
+481,1024166,1,Alabama,AL,"Autauga County",Ashville,Autaugaville,Track,Track,35953,205,206142024,6926905,33.8613957,-86.1939665
+482,1024176,1,Alabama,AL,"Autauga County",Odenville,Autaugaville,Track,Track,35120,205,145753222,539155,33.7171728,-86.3824822
+483,1024186,1,Alabama,AL,"Autauga County",Hoover,Autaugaville,Track,Track,35242,205,9616603,82630,33.4410183,-86.678391
+484,1024196,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35242,205,28629556,3263418,33.4506559,-86.6285645
+485,1024206,1,Alabama,AL,"Autauga County",Hoover,Autaugaville,Track,Track,35242,205,10958163,801615,33.3868168,-86.7579464
+486,1024216,1,Alabama,AL,"Autauga County",Pelham,Autaugaville,Track,Track,35124,205,13760163,27651,33.3206714,-86.7920551
+487,1024226,1,Alabama,AL,"Autauga County",Alabaster,Autaugaville,Track,Track,35007,205,5406206,59035,33.2535295,-86.8084054
+488,1024236,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35242,205,8431021,62231,33.3800273,-86.7161945
+489,1024246,1,Alabama,AL,"Autauga County",Maylene,Autaugaville,Track,Track,35114,205,34128010,286256,33.2309343,-86.9001761
+490,1024256,1,Alabama,AL,"Autauga County",Montevallo,Autaugaville,Track,Track,35115,205,27731854,230889,33.1051532,-86.8316133
+491,1024266,1,Alabama,AL,"Autauga County",Alabaster,Autaugaville,Track,Track,35007,205,25138481,364100,33.1840157,-86.8452865
+492,1024276,1,Alabama,AL,"Autauga County",Alabaster,Autaugaville,Track,Track,35007,205,109919048,2193785,33.2328201,-86.7308277
+493,1024286,1,Alabama,AL,"Autauga County",Wilsonville,Autaugaville,Track,Track,35186,205,124675796,6763556,33.2789886,-86.500775
+494,1024296,1,Alabama,AL,"Autauga County",Panola,Autaugaville,Track,Track,35477,205,536090556,10788078,32.863881,-88.2623312
+495,1024306,1,Alabama,AL,"Autauga County",Oxford,Autaugaville,Track,Track,36203,256,81129130,379011,33.5387971,-85.8620266
+496,1024316,1,Alabama,AL,"Autauga County",Talladega,Autaugaville,Track,Track,35160,256,110181078,13835702,33.4863993,-86.2098235
+497,1024326,1,Alabama,AL,"Autauga County",Talladega,Autaugaville,Track,Track,35160,256,6640370,903,33.4317569,-86.0994543
+498,1024336,1,Alabama,AL,"Autauga County",Childersburg,Autaugaville,Track,Track,35044,256,61685490,4098753,33.2597282,-86.3714709
+499,1024346,1,Alabama,AL,"Autauga County",Sylacauga,Autaugaville,Track,Track,35150,256,83495162,1251432,33.1485144,-86.2131565
+500,1024356,1,Alabama,AL,"Autauga County",Sylacauga,Autaugaville,Track,Track,35150,256,8089204,8552,33.145858,-86.250449
+501,1024366,1,Alabama,AL,"Autauga County","Alexander City",Autaugaville,Track,Track,35010,256,28825056,45488,32.9486832,-85.9841238
+502,1024376,1,Alabama,AL,"Autauga County",Dadeville,Autaugaville,Track,Track,36853,256,311017327,1997552,32.88789,-85.6951867
+503,1024386,1,Alabama,AL,"Autauga County",Dadeville,Autaugaville,Track,Track,36853,256,147998867,32336900,32.7193296,-85.799826
+504,1024396,1,Alabama,AL,"Autauga County",Tuscaloosa,Autaugaville,Track,Track,35406,205,27958537,3117370,33.2801674,-87.4861527
+505,1024406,1,Alabama,AL,"Autauga County",Northport,Autaugaville,Track,Track,35475,205,28237157,562524,33.2870635,-87.577686
+506,1024416,1,Alabama,AL,"Autauga County",Buhl,Autaugaville,Track,Track,35446,205,169522816,1463354,33.2005768,-87.7377348
+507,1024426,1,Alabama,AL,"Autauga County",Tuscaloosa,Autaugaville,Track,Track,35406,205,11076669,1962409,33.2690466,-87.5203662
+508,1024436,1,Alabama,AL,"Autauga County",Brookwood,Autaugaville,Track,Track,35444,205,410573152,10323554,33.3241425,-87.3313594
+509,1024446,1,Alabama,AL,"Autauga County",Cottondale,Autaugaville,Track,Track,35453,205,255828991,1502466,33.1420294,-87.3825437
+510,1024456,1,Alabama,AL,"Autauga County",Cottondale,Autaugaville,Track,Track,35453,205,5992844,16713,33.1930468,-87.4548608
+511,1024466,1,Alabama,AL,"Autauga County",Tuscaloosa,Autaugaville,Track,Track,35405,205,1704451,0,33.1932756,-87.5832845
+512,1024476,1,Alabama,AL,"Autauga County",Tuscaloosa,Autaugaville,Track,Track,35401,205,1868964,0,33.1887632,-87.5423908
+513,1024486,1,Alabama,AL,"Autauga County",Tuscaloosa,Autaugaville,Track,Track,35404,205,12325885,108719,33.1807268,-87.4937929
+514,1024496,1,Alabama,AL,"Autauga County",Tuscaloosa,Autaugaville,Track,Track,35405,205,5143284,0,33.1762981,-87.5397897
+515,1024506,1,Alabama,AL,"Autauga County",Holt,Autaugaville,Track,Track,35404,205,6641779,189874,33.2184585,-87.495102
+516,1024516,1,Alabama,AL,"Autauga County",Jasper,Autaugaville,Track,Track,35503,205,30020181,254512,33.8786756,-87.3033145
+517,1024526,1,Alabama,AL,"Autauga County",Jasper,Autaugaville,Track,Track,35504,205,39418578,414937,33.8698205,-87.18725
+518,1024536,1,Alabama,AL,"Autauga County",Nauvoo,Autaugaville,Track,Track,35578,205,153528165,704066,33.9445989,-87.4646876
+519,1024546,1,Alabama,AL,"Autauga County",Oakman,Autaugaville,Track,Track,35579,205,447906545,9543013,33.666598,-87.3615093
+520,1024556,1,Alabama,AL,"Autauga County",Cordova,Autaugaville,Track,Track,35550,205,114531672,2993518,33.7269845,-87.1886153
+521,1024566,1,Alabama,AL,"Autauga County",Sipsey,Autaugaville,Track,Track,35584,205,94852443,1007812,33.8481176,-87.0365448
+522,1024576,1,Alabama,AL,"Autauga County",Leroy,Autaugaville,Track,Track,36548,251,603093386,10961276,31.4174426,-88.0504262
+523,1024586,1,Alabama,AL,"Autauga County",Camden,Autaugaville,Track,Track,36726,334,445513253,21674103,32.012374,-87.2921068
+524,1024596,1,Alabama,AL,"Autauga County","Pine Apple",Autaugaville,Track,Track,36768,251,973585771,2934323,31.8936393,-87.1386589
+525,1024606,1,Alabama,AL,"Autauga County","Double Springs",Autaugaville,Track,Track,35553,205,471342813,13274862,34.1268793,-87.3831356
+526,1024616,1,Alabama,AL,"Autauga County",Haleyville,Autaugaville,Track,Track,35565,205,184358361,787177,34.1936265,-87.5492688
+527,2027,2,Alaska,AK,"Aleutians East Borough","Eagle River","Akutan city",Track,Track,99577,907,9185110,0,61.3286309,-149.5379974
+528,20217,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99508,907,2494426,0,61.2167015,-149.7927444
+529,20227,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99508,907,2163759,0,61.2032461,-149.824025
+530,20237,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99517,907,1612672,0,61.1879482,-149.9226985
+531,20247,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99507,907,2731183,0,61.1594375,-149.8193627
+532,20257,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99516,907,85707800,11963944,61.0532891,-149.7028074
+533,20267,2,Alaska,AK,"Aleutians East Borough",Fairbanks,"Akutan city",Track,Track,99701,907,4544912,92072,64.8328149,-147.7589866
+534,20277,2,Alaska,AK,"Aleutians East Borough",Fairbanks,"Akutan city",Track,Track,99701,907,63667440,659397,64.8899711,-147.5765503
+537,201360,2,Alaska,AK,"Kusilvak Census Area",Alakanuk,"Alakanuk city",City,place,99554,907,76485032,26008972,62.71116,-164.644712
+538,201370,2,Alaska,AK,"Denali Borough",Anderson,"Anderson city",City,place,99744,907,113285111,9169124,64.308281,-149.163187
+539,201380,2,Alaska,AK,"North Slope Borough",Barrow,"Barrow city",City,place,99723,907,48786920,6890236,71.2535,-156.800072
+540,201390,2,Alaska,AK,"Northwest Arctic Borough",Buckland,"Buckland city",City,place,99727,907,3640031,417369,65.975886,-161.138732
+541,201400,2,Alaska,AK,"Kusilvak Census Area",Chevak,"Chevak city",City,place,99563,907,2562639,54920,61.531066,-165.597199
+542,201410,2,Alaska,AK,"Bethel Census Area",Chuathbaluk,"Chuathbaluk city",City,place,99557,907,8976837,4460271,61.575539,-159.24707
+543,201420,2,Alaska,AK,"Valdez-Cordova Census Area","Copper Center","Copper Center",CDP,place,99573,907,32391024,0,61.984549,-145.354343
+544,201430,2,Alaska,AK,"Dillingham Census Area",Dillingham,"Dillingham city",City,place,99576,907,86946428,7195792,59.060472,-158.532223
+545,201440,2,Alaska,AK,"Fairbanks North Star Borough","Eielson Afb","Eielson AFB",CDP,place,99702,907,76750273,3708848,64.6733,-147.059464
+546,201450,2,Alaska,AK,"Aleutians East Borough","False Pass","False Pass city",City,place,99583,907,69890025,106542449,54.872441,-163.334268
+547,201460,2,Alaska,AK,"Kenai Peninsula Borough",Homer,"Fox River",CDP,place,99603,907,324760949,7471113,59.894505,-151.007044
+548,201470,2,Alaska,AK,"Fairbanks North Star Borough",Fairbanks,Goldstream,CDP,place,99709,907,222739445,95236,64.951999,-147.970602
+549,201480,2,Alaska,AK,"Denali Borough",Healy,Healy,CDP,place,99743,907,1779228859,525614,63.959632,-148.970842
+550,201490,2,Alaska,AK,"Yukon-Koyukuk Census Area",Hughes,"Hughes city",City,place,99745,907,7799108,0,66.044722,-154.237175
+551,201500,2,Alaska,AK,"North Slope Borough",Kaktovik,"Kaktovik city",City,place,99747,907,1869960,583166,70.121285,-143.627752
+552,201510,2,Alaska,AK,"Northwest Arctic Borough",Kiana,"Kiana city",City,place,99749,907,482353,0,66.971322,-160.437625
+553,201520,2,Alaska,AK,"Kodiak Island Borough",Kodiak,"Kodiak city",City,place,99615,907,9003031,4042002,57.792391,-152.404536
+554,201530,2,Alaska,AK,"Bethel Census Area",Kwethluk,"Kwethluk city",City,place,99621,907,26047286,4035211,60.793216,-161.43139
+555,201540,2,Alaska,AK,"Ketchikan Gateway Borough",Ketchikan,Loring,CDP,place,99901,907,1434002,200593,55.606676,-131.639976
+556,201550,2,Alaska,AK,"Bethel Census Area",Mekoryuk,"Mekoryuk city",City,place,99630,907,16491474,14094,60.370781,-166.266749
+557,201560,2,Alaska,AK,"Haines Borough",Haines,"Mud Bay",CDP,place,99827,907,31359224,62881,59.151183,-135.356493
+558,201570,2,Alaska,AK,"Yukon-Koyukuk Census Area",Allakaket,"New Allakaket",CDP,place,99720,907,6350272,978129,66.538603,-152.621292
+559,201580,2,Alaska,AK,"Northwest Arctic Borough",Noatak,Noatak,CDP,place,99761,907,41968766,1778545,67.589497,-163.010332
+560,201590,2,Alaska,AK,"Kusilvak Census Area","Sheldon Point","Nunam Iqua city",City,place,99666,907,31421019,16447187,62.506535,-164.900384
+561,201600,2,Alaska,AK,"Petersburg Borough",Petersburg,Petersburg,CDP,place,99833,907,114295601,3884325,56.754283,-132.873808
+562,201610,2,Alaska,AK,"Matanuska-Susitna Borough",Anchorage,"Point MacKenzie",CDP,place,99501,907,395024280,6304383,61.355597,-150.16935
+563,201620,2,Alaska,AK,"Prince of Wales-Hyder Census Area","Port Protection","Port Protection",CDP,place,99950,907,9645413,475410,56.331881,-133.60642
+564,201630,2,Alaska,AK,"Aleutians West Census Area","St. George","St. George city",City,place,99591,907,90002615,382165049,56.592794,-169.624378
+565,201640,2,Alaska,AK,"Northwest Arctic Borough",Selawik,"Selawik city",City,place,99770,907,7582133,3060641,66.590751,-160.001206
+566,201650,2,Alaska,AK,"Skagway Municipality",Skagway,Skagway,CDP,place,99840,907,24478109,123838,59.46436,-135.275151
+567,201660,2,Alaska,AK,"Yukon-Koyukuk Census Area","Stevens Village","Stevens Village",CDP,place,99774,907,30141336,4265921,66.023707,-149.080314
+568,201670,2,Alaska,AK,"Yukon-Koyukuk Census Area",Tanana,"Tanana city",City,place,99777,907,28595093,12025525,65.184555,-152.054643
+569,201680,2,Alaska,AK,"Valdez-Cordova Census Area",Glennallen,Tolsona,CDP,place,99588,907,117291576,3076197,62.068635,-146.123116
+570,201690,2,Alaska,AK,"Nome Census Area",Unalakleet,"Unalakleet city",City,place,99684,907,9411703,6659734,63.895578,-160.798136
+571,201700,2,Alaska,AK,"Southeast Fairbanks Census Area","Delta Junction",Whitestone,CDP,place,99737,907,18298887,0,64.152838,-145.906385
+574,202127,2,Alaska,AK,"Aleutians East Borough",Wasilla,"Akutan city",Track,Track,99687,907,55682951,803774,61.5191219,-149.6716836
+575,202137,2,Alaska,AK,"Aleutians East Borough",Wasilla,"Akutan city",Track,Track,99654,907,18404160,1898395,61.5861668,-149.3235509
+579,202177,2,Alaska,AK,"Aleutians East Borough",Chugiak,"Akutan city",Track,Track,99567,907,168793575,15079525,61.3488245,-149.3997957
+580,202187,2,Alaska,AK,"Aleutians East Borough","Eagle River","Akutan city",Track,Track,99577,907,14753110,260379,61.3098218,-149.5060219
+581,202197,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99501,907,2371512,9966854,61.2295599,-149.8930372
+582,202207,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99504,907,1979230,0,61.2170818,-149.7672141
+583,202217,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99504,907,2936374,0,61.2233721,-149.7233267
+584,202227,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99508,907,2338007,0,61.2030942,-149.7923741
+585,202237,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99501,907,1749931,0,61.2102868,-149.8759839
+586,202247,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99517,907,2720664,6843539,61.2011597,-149.9490164
+587,202257,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99508,907,3335293,36177,61.1918104,-149.8532543
+588,202267,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99508,907,4978010,175004,61.1910849,-149.803004
+589,202277,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99504,907,2525341,102891,61.2022012,-149.7644057
+590,202287,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99507,907,1748053,0,61.1738815,-149.848285
+591,202297,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99503,907,4483867,0,61.1839061,-149.8805455
+592,202307,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99517,907,1612672,0,61.1879482,-149.9226985
+593,202317,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99502,907,50814201,225502518,61.1648107,-150.1778033
+594,202327,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99502,907,4184086,19798,61.1478499,-149.9252509
+595,202337,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99518,907,4577740,0,61.1593799,-149.8999659
+596,202347,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99507,907,2731183,0,61.1594375,-149.8193627
+597,202357,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99515,907,7416313,22755652,61.122781,-149.9633763
+598,202367,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99507,907,1978662,0,61.130389,-149.8453664
+599,202377,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99516,907,3601953,0,61.1015721,-149.8226304
+600,202387,2,Alaska,AK,"Aleutians East Borough",Girdwood,"Akutan city",Track,Track,99587,907,1404917227,154085085,60.9724621,-149.0849841
+601,202397,2,Alaska,AK,"Aleutians East Borough",Bethel,"Akutan city",Track,Track,99559,907,567034388,27957930,60.8141554,-161.8508097
+602,202407,2,Alaska,AK,"Aleutians East Borough",Dillingham,"Akutan city",Track,Track,99576,907,409651993,7194810,58.9684384,-158.6734216
+603,202417,2,Alaska,AK,"Aleutians East Borough",Fairbanks,"Akutan city",Track,Track,99701,907,3313124,0,64.8278726,-147.7246662
+604,202427,2,Alaska,AK,"Aleutians East Borough",Fairbanks,"Akutan city",Track,Track,99709,907,4661153,272144,64.8542939,-147.7832776
+605,202437,2,Alaska,AK,"Aleutians East Borough",Fairbanks,"Akutan city",Track,Track,99701,907,37463502,13613806,64.8042687,-147.8115419
+606,202447,2,Alaska,AK,"Aleutians East Borough",Fairbanks,"Akutan city",Track,Track,99709,907,81642676,241746,64.9027074,-147.7951782
+607,202457,2,Alaska,AK,"Aleutians East Borough","North Pole","Akutan city",Track,Track,99705,907,127539635,2040600,64.7752542,-147.2484609
+610,202487,2,Alaska,AK,"Aleutians East Borough",Juneau,"Akutan city",Track,Track,99801,907,7489229,36094,58.3972,-134.5719857
+613,202517,2,Alaska,AK,"Aleutians East Borough",Kenai,"Akutan city",Track,Track,99611,907,74051354,139942927,60.5838565,-151.3261799
+614,202527,2,Alaska,AK,"Aleutians East Borough",Nikolaevsk,"Akutan city",Track,Track,99556,907,1502551013,1396368032,59.8999551,-151.5703879
+615,202537,2,Alaska,AK,"Aleutians East Borough","Fritz Creek","Akutan city",Track,Track,99603,907,521288307,76418835,59.8068599,-151.1233016
+616,202547,2,Alaska,AK,"Aleutians East Borough",Ketchikan,"Akutan city",Track,Track,99901,907,13478407,1172057,55.3715161,-131.6695939
+619,202577,2,Alaska,AK,"Aleutians East Borough",Palmer,"Akutan city",Track,Track,99645,907,392213426,2096459,61.7170925,-149.1964285
+620,202587,2,Alaska,AK,"Aleutians East Borough",Wasilla,"Akutan city",Track,Track,99687,907,55682951,803774,61.5191219,-149.6716836
+621,202597,2,Alaska,AK,"Aleutians East Borough",Wasilla,"Akutan city",Track,Track,99645,907,137183317,1549300,61.661322,-149.4872195
+622,202607,2,Alaska,AK,"Aleutians East Borough",Wasilla,"Akutan city",Track,Track,99654,907,12673363,2026311,61.6021527,-149.3433531
+623,202617,2,Alaska,AK,"Aleutians East Borough",Palmer,"Akutan city",Track,Track,99645,907,409022670,76506432,61.5337269,-148.9877062
+624,202627,2,Alaska,AK,"Aleutians East Borough",Nome,"Akutan city",Track,Track,99762,907,1908739435,562656735,64.6079069,-165.453872
+627,202657,2,Alaska,AK,"Aleutians East Borough",Metlakatla,"Akutan city",Track,Track,99926,907,343946421,213611590,55.138352,-131.4704235
+628,202667,2,Alaska,AK,"Aleutians East Borough",Sitka,"Akutan city",Track,Track,99835,907,17109651,32661843,57.0451454,-135.3522511
+632,4023,4,Arizona,AZ,"Apache County","Fort Defiance",Chinle,Track,Track,86504,928,792172786,627645,35.9506832,-109.1461416
+634,40223,4,Arizona,AZ,"Apache County",Pomerene,Chinle,Track,Track,85627,520,1670157893,848039,32.200019,-110.2836792
+635,40233,4,Arizona,AZ,"Apache County",Hereford,Chinle,Track,Track,85615,520,329303180,2659035,31.4646753,-110.0397849
+636,40243,4,Arizona,AZ,"Apache County","Sierra Vista",Chinle,Track,Track,85635,520,18873357,17237,31.543283,-110.2155629
+637,40253,4,Arizona,AZ,"Apache County",Flagstaff,Chinle,Track,Track,86004,928,10587881,21121,35.2275284,-111.5565227
+638,40263,4,Arizona,AZ,"Apache County",Flagstaff,Chinle,Track,Track,86004,602,783976367,197325,35.3071243,-111.3838286
+639,40273,4,Arizona,AZ,"Apache County","Tuba City",Chinle,Track,Track,86045,928,256564162,114258,36.0513606,-111.1899102
+640,40283,4,Arizona,AZ,"Apache County",Young,Chinle,Track,Track,85554,928,1312861414,495118,34.0978185,-111.0155491
+642,401539,4,Arizona,AZ,"Pima County",Sells,"Ali Molina",CDP,place,85634,520,1996741,0,31.902547,-111.780387
+643,401549,4,Arizona,AZ,"Pinal County",Eloy,"Arizona City",CDP,place,85131,520,15901047,186302,32.750787,-111.670454
+644,401559,4,Arizona,AZ,"Mohave County",Littlefield,"Beaver Dam",CDP,place,86432,928,21799318,0,36.907098,-113.936313
+645,401569,4,Arizona,AZ,"Cochise County",Bowie,Bowie,CDP,place,85605,520,4393141,0,32.324831,-109.484454
+646,401579,4,Arizona,AZ,"Coconino County","Tuba City",Cameron,CDP,place,86045,928,48495778,43135,35.853193,-111.428585
+647,401589,4,Arizona,AZ,"Pima County",Tucson,Catalina,CDP,place,85739,520,36546383,0,32.484902,-110.899633
+648,401599,4,Arizona,AZ,"Navajo County",Chinle,Chilchinbito,CDP,place,86503,928,61541732,27332,36.491359,-110.049912
+649,401609,4,Arizona,AZ,"Mohave County",Kingman,"Clacks Canyon",CDP,place,86401,928,8604897,0,35.220358,-114.0723
+650,401619,4,Arizona,AZ,"Gila County",Globe,"Copper Hill",CDP,place,85501,928,19032541,3749,33.430941,-110.746483
+651,401629,4,Arizona,AZ,"Gila County",Globe,Cutter,CDP,place,85501,928,2138576,0,33.35838,-110.659327
+652,401639,4,Arizona,AZ,"Yuma County",Yuma,"Donovan Estates",CDP,place,85364,928,314190,0,32.709354,-114.678223
+653,401649,4,Arizona,AZ,"Gila County",Globe,"East Globe",CDP,place,85501,928,8926975,0,33.35121,-110.705266
+654,401659,4,Arizona,AZ,"Navajo County",Polacca,"First Mesa",CDP,place,86042,928,40759648,20871,35.831663,-110.368892
+655,401669,4,Arizona,AZ,"Coconino County",Flagstaff,"Fort Valley",CDP,place,86001,928,19798069,0,35.255416,-111.725274
+656,401679,4,Arizona,AZ,"Maricopa County",Gilbert,Gilbert,Town,place,85295,480,176124143,510475,33.310345,-111.743121
+657,401689,4,Arizona,AZ,"Mohave County","Dolan Springs","Grand Canyon West",CDP,place,86441,928,44522908,1066005,36.004418,-113.804103
+658,401699,4,Arizona,AZ,"Gila County",Winkelman,Hayden,Town,place,85292,520,3277192,20294,32.994887,-110.779872
+659,401709,4,Arizona,AZ,"Navajo County",Holbrook,"Indian Wells",CDP,place,86025,928,26925538,784,35.40925,-110.114439
+660,401719,4,Arizona,AZ,"Navajo County",Kayenta,Kayenta,CDP,place,86033,928,34116189,163261,36.717169,-110.260459
+661,401729,4,Arizona,AZ,"Navajo County",Kykotsmovi,"Kykotsmovi Village",CDP,place,86039,928,43824456,30639,35.810245,-110.656849
+662,401739,4,Arizona,AZ,"Mohave County",Littlefield,Littlefield,CDP,place,86432,928,30994033,0,36.866273,-113.935838
+663,401749,4,Arizona,AZ,"Pima County",Sells,"Maish Vaya",CDP,place,85634,520,10970122,0,32.170295,-112.134197
+664,401759,4,Arizona,AZ,"Mohave County","Dolan Springs",Meadview,CDP,place,86441,928,80386657,0,35.953156,-114.078871
+665,401769,4,Arizona,AZ,"Mohave County","Mohave Valley","Mojave Ranch Estates",CDP,place,86440,928,1937625,0,34.944901,-114.590643
+666,401779,4,Arizona,AZ,"Santa Cruz County",Temp,"Nogales city",City,place,85282,480,53915279,52011,31.362463,-110.933538
+667,401789,4,Arizona,AZ,"Gila County",Payson,"Oxbow Estates",CDP,place,85541,928,1271640,390,34.180335,-111.343012
+668,401799,4,Arizona,AZ,"Gila County",Payson,Payson,Town,place,85547,928,50110915,18653,34.243893,-111.31884
+669,401809,4,Arizona,AZ,"Graham County",Pima,Pima,Town,place,85543,928,17169776,116004,32.88156,-109.843764
+670,401819,4,Arizona,AZ,"Cochise County",Douglas,Pirtleville,CDP,place,85608,520,4825985,1270,31.360894,-109.566052
+671,401829,4,Arizona,AZ,"Yuma County",Somerton,"Rancho Mesa Verde",CDP,place,85350,928,290861,0,32.594385,-114.655084
+672,401839,4,Arizona,AZ,"Gila County","Tonto Basin",Roosevelt,CDP,place,85553,928,6966992,22644,33.657393,-111.127051
+673,401849,4,Arizona,AZ,"Pima County","Green Valley",Sahuarita,Town,place,85614,520,81484003,0,31.932739,-110.96536
+674,401859,4,Arizona,AZ,"Pinal County","San Manuel","San Manuel",CDP,place,85631,520,53673060,78904,32.60603,-110.647113
+675,401869,4,Arizona,AZ,"Navajo County","Second Mesa","Second Mesa",CDP,place,86043,928,103921612,38150,35.851387,-110.49799
+676,401879,4,Arizona,AZ,"Cochise County","Sierra Vista","Sierra Vista city",City,place,85635,520,394277330,678788,31.56541,-110.314508
+677,401889,4,Arizona,AZ,"Apache County",Eagar,Springerville,Town,place,85925,928,29847566,422096,34.171921,-109.306892
+678,401899,4,Arizona,AZ,"Maricopa County",Surprise,"Sun City West",CDP,place,85374,623,28151296,8243,33.671383,-112.357187
+679,401909,4,Arizona,AZ,"Yuma County",Roll,Tacna,CDP,place,85347,928,4979033,0,32.700435,-113.961785
+680,401919,4,Arizona,AZ,"Coconino County",Winslow,"Tolani Lake",CDP,place,86047,928,1107069,0,35.430955,-110.84315
+681,401929,4,Arizona,AZ,"Pinal County",Superior,Top-of-the-World,CDP,place,85273,520,15700609,0,33.347668,-110.999724
+682,401939,4,Arizona,AZ,"Coconino County",Page,Tusayan,Town,place,86040,928,43569855,0,35.954964,-112.120196
+683,401949,4,Arizona,AZ,"Yavapai County",Cottonwood,"Verde Village",CDP,place,86326,928,18030574,0,34.711987,-111.993997
+684,401959,4,Arizona,AZ,"Yuma County",Wellton,"Wellton Hills",CDP,place,85356,928,1656151,0,32.623189,-114.145234
+685,401969,4,Arizona,AZ,"Pima County",Ajo,Why,CDP,place,85321,520,23195005,0,32.258973,-112.730634
+686,401979,4,Arizona,AZ,"Mohave County","Mohave Valley","Willow Valley",CDP,place,86440,928,12784253,98504,34.927669,-114.626595
+687,401989,4,Arizona,AZ,"Yavapai County",Yarnell,Yarnell,CDP,place,85362,928,22855950,0,34.228248,-112.763062
+688,402103,4,Arizona,AZ,"Apache County",Morenci,Chinle,Track,Track,85540,928,319216540,7585923,32.9929864,-109.3323888
+689,402113,4,Arizona,AZ,"Apache County",Ehrenberg,Chinle,Track,Track,85334,928,1583765313,0,33.2825883,-114.4150358
+690,402123,4,Arizona,AZ,"Apache County","Sun City",Chinle,Track,Track,85373,623,3907853,0,33.6751574,-112.3386479
+691,402133,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85387,623,2180184,0,33.6762281,-112.4163657
+692,402143,4,Arizona,AZ,"Apache County",Buckeye,Chinle,Track,Track,85322,623,661453568,125164,33.5484373,-112.6462541
+693,402153,4,Arizona,AZ,"Apache County","El Mirage",Chinle,Track,Track,85335,623,3955451,93784,33.6196477,-112.3144574
+694,402163,4,Arizona,AZ,"Apache County","Litchfield Park",Chinle,Track,Track,85340,623,3850676,11138,33.4834524,-112.3250332
+695,402173,4,Arizona,AZ,"Apache County",Goodyear,Chinle,Track,Track,85338,623,14503084,13707,33.413794,-112.3997841
+696,402183,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85379,623,2592282,0,33.6165068,-112.3678926
+697,402193,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85379,623,36407150,86468,33.5589526,-112.4016176
+698,402203,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85382,623,3332748,30221,33.6294009,-112.2828515
+699,402213,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85381,623,2435718,0,33.6033854,-112.2606851
+700,402223,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85345,623,2569200,0,33.5885301,-112.228887
+701,402233,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85037,623,1297867,0,33.4870407,-112.2421267
+702,402243,4,Arizona,AZ,"Apache County",Avondale,Chinle,Track,Track,85323,623,3195695,0,33.4702087,-112.2812089
+703,402253,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85305,623,18953599,0,33.4006324,-112.3294874
+704,402263,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85302,623,647196,0,33.56024,-112.1883998
+705,402273,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85303,623,2565814,0,33.5450265,-112.2290633
+706,402283,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85345,623,2589405,0,33.558242,-112.2983535
+707,402293,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85301,623,1259601,0,33.5130874,-112.1947392
+708,402303,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,2590325,7908,33.6186525,-111.9512025
+709,402313,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,767901,0,33.6298167,-112.0253133
+710,402323,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85023,602,5215782,4009,33.628231,-112.0612399
+711,402333,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85029,602,2582502,188,33.589357,-112.1440635
+712,402343,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85306,602,2565589,0,33.6179382,-112.1597847
+713,402353,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85029,602,1000952,79804,33.5896579,-112.1208241
+714,402363,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85028,602,2584777,0,33.5898363,-112.0044597
+715,402373,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85754,520,1288058,0,33.5603767,-112.1126416
+716,402383,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85021,602,942646,0,33.5494847,-112.1059643
+717,402393,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85013,602,649356,0,33.5348013,-112.0867781
+718,402403,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85015,602,2575241,0,33.5168231,-112.10837
+719,402413,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85018,480,1557172,16048,33.5002341,-111.989341
+720,402423,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85013,602,1504391,10484,33.5054188,-112.0934517
+721,402433,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85033,623,1231152,0,33.5018159,-112.2335625
+722,402443,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85033,602,1302037,0,33.4877584,-112.1907502
+723,402453,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85016,602,1780329,11537,33.4889011,-112.0356409
+724,402463,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85257,480,6570748,89237,33.4586576,-111.9551042
+725,402473,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85007,602,2540085,44043,33.4713281,-112.0919831
+726,402483,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85035,623,1264266,0,33.476804,-112.1948327
+727,402493,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85009,602,721053,0,33.4639189,-112.1435434
+728,402503,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85008,602,649254,0,33.4549591,-112.0258111
+729,402513,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85003,602,1304997,0,33.4477675,-112.0738956
+730,402523,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85031,602,2815997,0,33.4290366,-112.0739784
+731,402533,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85040,602,2480171,0,33.3998988,-112.0386208
+732,402543,4,Arizona,AZ,"Apache County",Laveen,Chinle,Track,Track,85339,602,6532427,0,33.3848215,-112.2072947
+733,402553,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85041,602,7727811,0,33.3746295,-112.1052606
+734,402563,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85048,480,2416246,169146,33.2958998,-112.0048153
+735,402573,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85048,480,5703861,6930,33.3119365,-112.0601268
+736,402583,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85034,602,6624814,5647,33.42871,-112.0418759
+737,402593,4,Arizona,AZ,"Apache County","Fountain Hills",Chinle,Track,Track,85268,480,4969751,121069,33.6132017,-111.706384
+738,402603,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85250,480,2293862,263086,33.5461165,-111.9137634
+739,402613,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85018,602,6562047,111864,33.6450492,-111.9093868
+740,402623,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85250,480,2544694,35270,33.529373,-111.898852
+741,402633,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85251,602,1048260,0,33.4863686,-111.9386785
+742,402643,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85281,480,8101442,192893,33.4340726,-111.9158636
+743,402653,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85382,480,1325010,0,33.4111316,-111.9002656
+744,402663,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85281,480,3856655,0,33.3965537,-111.9520567
+745,402673,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85284,480,2572910,71906,33.3425415,-111.9008883
+746,402683,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85207,480,7589777,51295,33.4595197,-111.6595501
+747,402693,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85215,480,3611961,0,33.4910974,-111.6921859
+748,402703,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85203,480,1640802,17374,33.4575906,-111.7937678
+749,402713,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85213,480,2544122,0,33.4445016,-111.7792986
+750,402723,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85203,480,1210887,0,33.4331863,-111.8141543
+751,402733,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85201,480,2325570,0,33.4111435,-111.8721703
+752,402743,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85204,480,1309323,0,33.396982,-111.8141908
+753,402753,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85210,480,2640384,6784,33.3836283,-111.8554938
+754,402763,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85210,480,1289816,0,33.3606123,-111.8504492
+755,402773,4,Arizona,AZ,"Apache County",Gilbert,Chinle,Track,Track,85233,480,7863204,0,33.3654099,-111.8263386
+756,402783,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85204,480,2604371,0,33.3864079,-111.7625514
+757,402793,4,Arizona,AZ,"Apache County",Higley,Chinle,Track,Track,85236,480,10188812,0,33.3503525,-111.7214724
+758,402803,4,Arizona,AZ,"Apache County",Gilbert,Chinle,Track,Track,85234,480,2541399,0,33.3721723,-111.696362
+759,402813,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85208,480,2589086,0,33.4005952,-111.6414096
+760,402823,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85209,480,2574580,0,33.3718076,-111.6274317
+761,402833,4,Arizona,AZ,"Apache County",Chandler,Chinle,Track,Track,85224,480,2593315,0,33.3278656,-111.8677684
+762,402843,4,Arizona,AZ,"Apache County",Anthem,Chinle,Track,Track,85086,623,32164952,17349,33.8390081,-112.0893313
+763,402853,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85310,623,5610089,0,33.7249711,-112.1753498
+764,402863,4,Arizona,AZ,"Apache County","Cave Creek",Chinle,Track,Track,85327,480,1327101,0,33.764366,-111.9903161
+765,402873,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85383,623,6369958,653,33.6883797,-112.2710053
+766,402883,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85031,623,3382352,0,33.676414,-112.1236581
+767,402893,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85382,623,3088968,0,33.6601992,-112.2446432
+768,402903,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85027,623,2537641,0,33.6619201,-112.0913975
+769,402913,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85382,623,2572912,0,33.6455789,-112.2459731
+770,402923,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85023,602,2295574,0,33.6472713,-112.1073368
+771,402933,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,2578786,12092,33.6471778,-112.0047736
+772,402943,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85284,480,2738664,0,33.3292784,-111.9583649
+773,402953,4,Arizona,AZ,"Apache County",Chandler,Chinle,Track,Track,85226,480,2475231,0,33.2980703,-111.9194466
+774,402963,4,Arizona,AZ,"Apache County",Chandler,Chinle,Track,Track,85286,480,2639936,0,33.284067,-111.8501598
+775,402973,4,Arizona,AZ,"Apache County",Chandler,Chinle,Track,Track,85248,480,5848500,0,33.2341022,-111.8512674
+776,402983,4,Arizona,AZ,"Apache County",Chandler,Chinle,Track,Track,85249,480,2482993,0,33.2119505,-111.7808712
+777,402993,4,Arizona,AZ,"Apache County",Gilbert,Chinle,Track,Track,85295,480,2461759,0,33.3139216,-111.7646653
+778,4021003,4,Arizona,AZ,"Apache County",Gilbert,Chinle,Track,Track,85298,480,23960865,0,33.2367275,-111.7386475
+779,4021013,4,Arizona,AZ,"Apache County","Queen Creek",Chinle,Track,Track,85242,480,7772321,3209,33.2416507,-111.656567
+780,4021023,4,Arizona,AZ,"Apache County","Fountain Hills",Chinle,Track,Track,85268,480,99968321,934540,33.6461625,-111.6598954
+781,4021033,4,Arizona,AZ,"Apache County","Dolan Springs",Chinle,Track,Track,86441,928,610160199,9604,35.5697848,-114.1715227
+782,4021043,4,Arizona,AZ,"Apache County","Bullhead City",Chinle,Track,Track,86442,928,5993003,0,35.1099928,-114.5845892
+783,4021053,4,Arizona,AZ,"Apache County","Bullhead City",Chinle,Track,Track,86439,928,9934226,0,35.0150255,-114.5844264
+784,4021063,4,Arizona,AZ,"Apache County","Lake Havasu City",Chinle,Track,Track,86406,928,6220572,0,34.4818248,-114.2795315
+785,4021073,4,Arizona,AZ,"Apache County",Pinon,Chinle,Track,Track,86510,928,1013396605,115596,36.291957,-110.2982373
+786,4021083,4,Arizona,AZ,"Apache County",Shonto,Chinle,Track,Track,86054,928,1687283615,333845,36.6840509,-110.6114408
+787,4021093,4,Arizona,AZ,"Apache County",Lakeside,Chinle,Track,Track,85929,928,15826303,80842,34.1236048,-109.9520323
+788,4021103,4,Arizona,AZ,"Apache County","Show Low",Chinle,Track,Track,85901,928,527773003,1821280,34.2725505,-109.9612285
+789,4021113,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85701,520,1113456,0,32.212867,-110.9771682
+790,4021123,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85716,520,2429820,0,32.2492877,-110.9209011
+791,4021133,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85713,520,2781210,0,32.1877205,-110.9946412
+792,4021143,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85716,520,1126151,0,32.2682506,-110.9184398
+793,4021153,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85716,520,2250340,0,32.2387686,-110.9040523
+794,4021163,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85711,520,1317492,0,32.1995907,-110.8622294
+795,4021173,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85706,520,2418537,0,32.1413278,-110.9855152
+796,4021183,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85715,520,2292434,0,32.2569005,-110.8325423
+797,4021193,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85748,520,2584014,0,32.2135906,-110.7812274
+798,4021203,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85710,520,3745088,0,32.2840302,-110.781441
+799,4021213,4,Arizona,AZ,"Apache County",Vail,Chinle,Track,Track,85641,520,1057208,0,32.0974037,-110.7770346
+800,4021223,4,Arizona,AZ,"Apache County",Corona,Chinle,Track,Track,85641,520,778835299,0,31.8894564,-110.6151633
+801,4021233,4,Arizona,AZ,"Apache County","Green Valley",Chinle,Track,Track,85622,520,135232009,0,31.7740178,-110.9544319
+802,4021243,4,Arizona,AZ,"Apache County","Green Valley",Chinle,Track,Track,85614,520,3743826,0,31.8736368,-110.9930679
+803,4021253,4,Arizona,AZ,"Apache County",Sahuarita,Chinle,Track,Track,85629,520,8579759,0,31.9837468,-110.9797993
+804,4021263,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85745,520,2769008,0,32.2430537,-111.0296803
+805,4021273,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85743,520,4848790,113798,32.3480444,-111.087263
+806,4021283,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85705,520,1844452,0,32.2866043,-110.9671486
+807,4021293,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85704,520,3464391,0,32.3035958,-110.9870329
+808,4021303,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85704,520,2416112,0,32.3301897,-111.0208646
+809,4021313,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85755,520,22256526,0,32.4623892,-110.9936469
+810,4021323,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85718,520,9371008,0,32.2915746,-110.9081823
+811,4021333,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85750,520,6827714,0,32.2898394,-110.8482194
+812,4021343,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85701,520,288736407,0,32.055257,-111.0853003
+813,4021353,4,Arizona,AZ,"Apache County",Florence,Chinle,Track,Track,85132,480,5434188,0,33.1544205,-111.5390565
+814,4021363,4,Arizona,AZ,"Apache County","Apache Junction",Chinle,Track,Track,85220,480,2515241,0,33.4113667,-111.5637657
+815,4021373,4,Arizona,AZ,"Apache County",Oracle,Chinle,Track,Track,85623,520,93778024,695,32.5506259,-110.8592663
+816,4021383,4,Arizona,AZ,"Apache County","Casa Grande",Chinle,Track,Track,85222,520,25889147,0,32.9309254,-111.7740229
+817,4021393,4,Arizona,AZ,"Apache County","Casa Grande",Chinle,Track,Track,85222,520,20853917,0,32.8645508,-111.6698953
+818,4021403,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85204,480,5303999,32323,33.0553653,-112.0192483
+819,4021413,4,Arizona,AZ,"Apache County",Picacho,Chinle,Track,Track,85241,520,834066473,326576,32.593809,-111.5851591
+820,4021423,4,Arizona,AZ,"Apache County",Nogales,Chinle,Track,Track,85621,520,576543866,1540696,31.4430891,-110.8696338
+821,4021433,4,Arizona,AZ,"Apache County",Prescott,Chinle,Track,Track,86305,928,44019887,1131532,34.6268166,-112.4437036
+822,4021443,4,Arizona,AZ,"Apache County","Prescott Valley",Chinle,Track,Track,86312,928,17186621,0,34.5863785,-112.2822925
+823,4021453,4,Arizona,AZ,"Apache County",Bagdad,Chinle,Track,Track,86321,928,1358885864,57427,34.5733844,-113.1438803
+824,4021463,4,Arizona,AZ,"Apache County",Sedona,Chinle,Track,Track,86351,928,32415088,0,34.7817127,-111.732393
+825,4021473,4,Arizona,AZ,"Apache County",Yuma,Chinle,Track,Track,85364,928,1604891,15347,32.7188039,-114.6285925
+826,4021483,4,Arizona,AZ,"Apache County",Yuma,Chinle,Track,Track,85364,928,2315470,7692,32.6921404,-114.6324654
+827,4021493,4,Arizona,AZ,"Apache County",Yuma,Chinle,Track,Track,85366,928,2193247,11598,32.67363,-114.6112962
+828,4021503,4,Arizona,AZ,"Apache County",Yuma,Chinle,Track,Track,85364,928,20842462,0,32.654422,-114.5197785
+829,4021513,4,Arizona,AZ,"Apache County","San Luis",Chinle,Track,Track,85349,928,2898375,0,32.4924714,-114.7770437
+830,4021523,4,Arizona,AZ,"Apache County",Dateland,Chinle,Track,Track,85333,928,1854978380,139619,32.242892,-113.5327972
+831,4021533,4,Arizona,AZ,"Apache County","Fort Defiance",Chinle,Track,Track,86504,928,792172786,627645,35.9506832,-109.1461416
+832,4021543,4,Arizona,AZ,"Apache County",Chinle,Chinle,Track,Track,86503,928,502006328,266179,36.1534278,-109.6853411
+833,4021553,4,Arizona,AZ,"Apache County",Ganado,Chinle,Track,Track,86505,928,1493024595,1594278,35.6217526,-109.3752943
+834,4021563,4,Arizona,AZ,"Apache County","Ft. Defiance",Chinle,Track,Track,86504,928,109583676,39384,35.706181,-109.1164586
+835,4021573,4,Arizona,AZ,"Apache County",Eagar,Chinle,Track,Track,85925,928,1378293059,6392534,34.3155138,-109.2663052
+837,4021593,4,Arizona,AZ,"Apache County",Benson,Chinle,Track,Track,85602,520,18668674,9482,31.9582989,-110.3045946
+838,4021603,4,Arizona,AZ,"Apache County",Pomerene,Chinle,Track,Track,85627,520,1670157893,848039,32.200019,-110.2836792
+839,4021613,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85712,520,33689602,1206,31.3644435,-109.4911125
+840,4021623,4,Arizona,AZ,"Apache County",Douglas,Chinle,Track,Track,85607,520,1901876,0,31.3389448,-109.5503177
+841,4021633,4,Arizona,AZ,"Apache County",Hereford,Chinle,Track,Track,85615,520,329303180,2659035,31.4646753,-110.0397849
+842,4021643,4,Arizona,AZ,"Apache County","Ft Huachuca",Chinle,Track,Track,85670,520,136670104,33582,31.5071568,-110.3621165
+843,4021653,4,Arizona,AZ,"Apache County","Sierra Vista",Chinle,Track,Track,85635,520,3265430,0,31.5595678,-110.2836664
+844,4021663,4,Arizona,AZ,"Apache County","Sierra Vista",Chinle,Track,Track,85635,520,63721335,496677,31.5741205,-110.1933358
+845,4021673,4,Arizona,AZ,"Apache County","Sierra Vista",Chinle,Track,Track,85650,520,18660062,0,31.4788388,-110.2729133
+846,4021683,4,Arizona,AZ,"Apache County",Hereford,Chinle,Track,Track,85615,520,561289327,626172,31.3912782,-110.262153
+847,4021693,4,Arizona,AZ,"Apache County",Flagstaff,Chinle,Track,Track,86004,928,2739349,0,35.2174762,-111.6056385
+848,4021703,4,Arizona,AZ,"Apache County",Flagstaff,Chinle,Track,Track,86004,928,54478994,58029,35.1821881,-111.5554509
+849,4021713,4,Arizona,AZ,"Apache County",Page,Chinle,Track,Track,86040,928,40115836,1859,35.1557054,-111.6291383
+850,4021723,4,Arizona,AZ,"Apache County",Flagstaff,Chinle,Track,Track,86001,928,6266288,0,35.1881088,-111.6816587
+852,4021743,4,Arizona,AZ,"Apache County",Page,Chinle,Track,Track,86040,928,249869455,894405,35.2369299,-112.203011
+856,4021783,4,Arizona,AZ,"Apache County",Pine,Chinle,Track,Track,85544,928,460049958,200020,34.3038561,-111.5611326
+857,4021793,4,Arizona,AZ,"Apache County",Payson,Chinle,Track,Track,85541,928,680561797,518188,34.0798698,-111.4300563
+858,4021803,4,Arizona,AZ,"Apache County",Miami,Chinle,Track,Track,85539,928,641266641,21511753,33.452695,-110.9371613
+859,4021813,4,Arizona,AZ,"Apache County",Globe,Chinle,Track,Track,85501,928,23708891,55954,33.4137405,-110.765075
+861,4021833,4,Arizona,AZ,"Apache County",Thatcher,Chinle,Track,Track,85552,928,21266178,1464121,32.8638683,-109.7544601
+862,4021843,4,Arizona,AZ,"Apache County",Safford,Chinle,Track,Track,85546,928,5068385,0,32.8141246,-109.7192896
+863,4021853,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85009,928,930847320,6790078,32.8913628,-109.5331779
+864,4021863,4,Arizona,AZ,"Apache County",Thatcher,Chinle,Track,Track,85552,928,1145307912,2933485,32.7537823,-109.1416554
+865,4021873,4,Arizona,AZ,"Apache County",Ehrenberg,Chinle,Track,Track,85334,928,1650800782,0,33.6525942,-113.9501387
+866,4021883,4,Arizona,AZ,"Apache County",Parker,Chinle,Track,Track,85344,928,993669983,9272411,33.8749524,-114.3598873
+867,4021893,4,Arizona,AZ,"Apache County","Cave Creek",Chinle,Track,Track,85327,480,26522834,15824,33.8175437,-111.9168671
+868,4021903,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85378,623,6349981,7599,33.6577414,-112.3366887
+869,4021913,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85374,623,3767797,0,33.6746155,-112.3659376
+870,4021923,4,Arizona,AZ,"Apache County",Morristown,Chinle,Track,Track,85342,623,455877214,124882,33.8962909,-112.5112619
+871,4021933,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85387,623,5574808,0,33.6878485,-112.3802373
+872,4021943,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85388,623,3574011,0,33.66087,-112.42696
+873,4021953,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85374,623,7763729,0,33.6527323,-112.4037293
+874,4021963,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85374,623,2666330,6363,33.6452498,-112.3672143
+875,4021973,4,Arizona,AZ,"Apache County",Buckeye,Chinle,Track,Track,85322,623,661453568,125164,33.5484373,-112.6462541
+876,4021983,4,Arizona,AZ,"Apache County",Buckeye,Chinle,Track,Track,85326,623,12998136,0,33.4267096,-112.5645555
+877,4021993,4,Arizona,AZ,"Apache County",Buckeye,Chinle,Track,Track,85326,623,58772825,0,33.3846295,-112.5165303
+878,4022003,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85378,623,3677181,2937,33.6318859,-112.3316377
+879,4022013,4,Arizona,AZ,"Apache County","El Mirage",Chinle,Track,Track,85335,623,1300252,0,33.6017334,-112.3203136
+880,4022023,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85018,623,15255642,4015,33.464555,-112.4021325
+881,4022033,4,Arizona,AZ,"Apache County","Litchfield Park",Chinle,Track,Track,85340,623,4578974,9845,33.501347,-112.3261418
+882,4022043,4,Arizona,AZ,"Apache County","Litchfield Park",Chinle,Track,Track,85340,623,7737659,8777,33.4866763,-112.4005215
+883,4022053,4,Arizona,AZ,"Apache County",Goodyear,Chinle,Track,Track,85338,623,7669232,12435,33.4426194,-112.3979731
+884,4022063,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85308,623,2602089,0,33.6315958,-112.418113
+885,4022073,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85374,623,2673903,0,33.6311813,-112.3506875
+886,4022083,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85379,623,2560346,6830,33.6117732,-112.3839564
+887,4022093,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85374,623,2560329,0,33.6163815,-112.3506402
+888,4022103,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85379,623,10285062,19758,33.595581,-112.361302
+889,4022113,4,Arizona,AZ,"Apache County","El Mirage",Chinle,Track,Track,85335,623,2133079,0,33.5875768,-112.3173879
+890,4022123,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85031,623,2569554,0,33.5295913,-112.3500764
+891,4022133,4,Arizona,AZ,"Apache County",Avondale,Chinle,Track,Track,85323,602,3938541,0,33.4462357,-112.3417667
+892,4022143,4,Arizona,AZ,"Apache County",Youngtown,Chinle,Track,Track,85363,602,4013779,283181,33.6103118,-112.2784919
+893,4022153,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85382,623,4182254,21972,33.6272736,-112.2623302
+894,4022163,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85306,623,2349958,9988,33.631369,-112.2099467
+895,4022173,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85382,623,2967570,0,33.6307643,-112.2451813
+896,4022183,4,Arizona,AZ,"Apache County","El Mirage",Chinle,Track,Track,85335,623,2591702,16185,33.5916464,-112.3045197
+897,4022193,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,60048,800,4852622,26239,33.5893833,-112.2782881
+898,4022203,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85345,623,2609055,0,33.5887966,-112.2115049
+899,4022213,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,60048,800,2280448,9521,33.573695,-112.2632913
+900,4022223,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85345,623,2157868,1691,33.5893163,-112.2449873
+901,4022233,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85037,623,2616802,30363,33.4994539,-112.280234
+902,4022243,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85037,623,1297867,0,33.4870407,-112.2421267
+903,4022253,4,Arizona,AZ,"Apache County",Avondale,Chinle,Track,Track,85323,623,1860792,80425,33.4807297,-112.3036975
+904,4022263,4,Arizona,AZ,"Apache County",Chandler,Chinle,Track,Track,85286,520,3873524,7991,33.4496873,-112.3205947
+905,4022273,4,Arizona,AZ,"Apache County",Tolleson,Chinle,Track,Track,85353,623,9542937,17732,33.4082453,-112.2599089
+906,4022283,4,Arizona,AZ,"Apache County",Avondale,Chinle,Track,Track,85323,623,954054,0,33.4318212,-112.2960227
+907,4022293,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85302,623,2487695,0,33.5745886,-112.1945475
+908,4022303,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85302,602,2572026,0,33.5747176,-112.1602479
+909,4022313,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85302,623,1832032,0,33.5600973,-112.1967543
+910,4022323,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85301,623,2631638,0,33.5457957,-112.1774088
+911,4022333,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85345,623,2573535,0,33.5591592,-112.2464157
+912,4022343,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85303,623,1286319,0,33.5200387,-112.2117697
+913,4022353,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85307,623,2592216,0,33.515458,-112.2811302
+914,4022363,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85345,623,2448698,0,33.5581719,-112.2815339
+915,4022373,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85301,623,2630303,0,33.5312702,-112.1774451
+916,4022383,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85301,623,1275658,0,33.519177,-112.1572958
+917,4022393,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85301,623,1259601,0,33.5130874,-112.1947392
+918,4022403,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,2446322,0,33.6043843,-111.9344318
+919,4022413,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,2335894,0,33.6053327,-111.9874082
+920,4022423,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85254,602,2606852,0,33.6188319,-111.969144
+921,4022433,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,2589035,0,33.6331998,-111.9515948
+922,4022443,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,2499628,0,33.6193209,-112.0046826
+923,4022453,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,810662,0,33.6368982,-112.0254119
+924,4022463,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,4457245,0,33.6062412,-112.0255743
+925,4022473,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85023,602,6133625,7131,33.6166417,-112.0797986
+926,4022483,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85204,480,2462943,0,33.6326258,-112.1078795
+927,4022493,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85023,602,1976908,0,33.6300595,-112.0756897
+928,4022503,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85020,602,4717371,0,33.5941537,-112.0555576
+929,4022513,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85029,602,2563951,0,33.6036114,-112.1252568
+930,4022523,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85029,602,2582502,188,33.589357,-112.1440635
+931,4022533,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85051,602,1625210,10858,33.5723303,-112.1454437
+932,4022543,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85306,623,2445665,0,33.6320319,-112.1771358
+933,4022553,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85306,623,2576841,0,33.6179605,-112.1770946
+934,4022563,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85304,623,2569325,2223,33.5885017,-112.1766306
+935,4022573,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85304,623,2548116,22483,33.604454,-112.1784017
+936,4022583,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85029,602,1486942,0,33.5891286,-112.1287875
+937,4022593,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85020,602,1227304,23667,33.5709186,-112.0944957
+938,4022603,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85020,602,1443266,0,33.5733812,-112.053608
+939,4022613,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85028,602,3335039,0,33.5894838,-112.0243739
+940,4022623,4,Arizona,AZ,"Apache County","Paradise Valley",Chinle,Track,Track,85253,480,12867586,3248,33.5441689,-111.9412986
+941,4022633,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85018,602,9830948,6859,33.5344403,-111.9903854
+942,4022643,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85020,602,2568631,0,33.560285,-112.0910906
+943,4022653,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85051,602,1290267,0,33.5603307,-112.1299019
+944,4022663,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85051,602,2585268,0,33.5458065,-112.1428868
+945,4022673,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85021,602,2554734,0,33.5457403,-112.0910561
+946,4022683,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85016,602,2494795,96106,33.5269516,-112.0379507
+947,4022693,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85015,602,633665,0,33.5349394,-112.0953652
+948,4022703,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85015,602,1879036,0,33.5313801,-112.1059165
+949,4022713,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85019,602,1242404,0,33.5204471,-112.1427058
+950,4022723,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85015,602,2575241,0,33.5168231,-112.10837
+951,4022733,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85012,602,2609413,0,33.5165357,-112.0737249
+952,4022743,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85016,602,2618706,0,33.5165871,-112.0387951
+953,4022753,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85018,480,1557172,16048,33.5002341,-111.989341
+954,4022763,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85016,602,2597616,0,33.5023624,-112.0215697
+955,4022773,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85014,602,1770566,9626,33.5042337,-112.0540658
+956,4022783,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85013,602,1504391,10484,33.5054188,-112.0934517
+957,4022793,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85015,602,957431,9900,33.4995459,-112.1073358
+958,4022803,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85031,623,2561519,0,33.5021803,-112.1602288
+959,4022813,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85033,623,2479942,24992,33.5025844,-112.1933395
+960,4022823,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85033,623,1331560,0,33.5015918,-112.22502
+961,4022833,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85033,623,1293222,0,33.4874706,-112.21623
+962,4022843,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85033,602,1302037,0,33.4877584,-112.1907502
+963,4022853,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85009,602,2573752,16770,33.4887227,-112.143503
+964,4022863,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85012,480,1310115,0,33.4875221,-112.0694199
+965,4022873,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85016,602,1296654,0,33.4913915,-112.021563
+966,4022883,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85018,480,2624349,0,33.4875531,-111.9867811
+967,4022893,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85008,602,1912022,0,33.4740317,-111.9709762
+968,4022903,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85008,602,1325311,0,33.4730969,-112.0085557
+969,4022913,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85006,602,1301777,0,33.4730134,-112.0432967
+970,4022923,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85002,623,2654770,0,33.4730347,-112.0739665
+971,4022933,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85009,602,1136736,0,33.4724482,-112.1477014
+972,4022943,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85035,623,1304314,0,33.4768815,-112.1777032
+973,4022953,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85035,623,2596628,0,33.4730267,-112.2119981
+974,4022963,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85035,623,1246190,0,33.4642123,-112.1684127
+975,4022973,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85043,623,11056321,0,33.4071318,-112.2209946
+976,4022983,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85009,602,1880498,0,33.4566702,-112.1430073
+977,4022993,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85007,602,2601456,0,33.4585736,-112.0913351
+978,4023003,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85006,602,1265032,0,33.4622079,-112.0564199
+979,4023013,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85008,602,1550262,13598,33.4620494,-111.9990272
+980,4023023,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85034,602,13555160,55520,33.4295804,-112.0140972
+981,4023033,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85007,602,1200491,0,33.4439794,-112.10407
+982,4023043,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85031,602,2815997,0,33.4290366,-112.0739784
+983,4023053,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85041,602,2598908,0,33.3993852,-112.142267
+984,4023063,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85040,602,2569301,0,33.3995851,-112.0559842
+985,4023073,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85042,480,1446596,0,33.3885831,-111.9874871
+986,4023083,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85042,602,2687775,0,33.3853695,-112.0387139
+987,4023093,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85041,602,2579308,0,33.3849687,-112.0905339
+988,4023103,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85041,602,2583291,722,33.3990267,-112.123348
+989,4023113,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85041,602,7769302,0,33.3704008,-112.1258061
+990,4023123,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85042,602,3496826,0,33.367837,-112.0575744
+991,4023133,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85044,480,3430306,47414,33.3409205,-111.9835193
+992,4023143,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85048,480,3802548,0,33.2979769,-111.9845655
+993,4023153,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85044,480,1134499,0,33.3268322,-111.9759387
+994,4023163,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85048,480,2295743,0,33.3092109,-112.0136469
+995,4023173,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85048,480,5703861,6930,33.3119365,-112.0601268
+996,4023183,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85007,602,5226378,0,33.4658538,-112.1086031
+997,4023193,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85009,602,8090015,100686,33.420063,-112.1144023
+998,4023203,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85258,480,1865457,0,33.5751643,-111.8802501
+999,4023213,4,Arizona,AZ,"Apache County","Fountain Hills",Chinle,Track,Track,85268,480,8420238,0,33.5925148,-111.720591
+1000,4023223,4,Arizona,AZ,"Apache County","Fountain Hills",Chinle,Track,Track,85268,480,15649419,978,33.5891915,-111.7497196
+1001,4023233,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85266,602,93090194,27636,33.7883642,-111.819893
+1002,4023243,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85258,480,3234760,0,33.573508,-111.8521592
+1003,4023253,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85259,480,2469716,0,33.5890025,-111.8373468
+1004,4023263,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,5142712,18647,33.6896109,-111.9086338
+1005,4023273,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85018,602,6562047,111864,33.6450492,-111.9093868
+1006,4023283,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85259,480,33224180,832,33.6147408,-111.8202992
+1007,4023293,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85255,480,55898629,0,33.6773576,-111.8382486
+1008,4023303,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85250,480,2544694,35270,33.529373,-111.898852
+1009,4023313,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85250,480,2511839,50960,33.5162635,-111.8980634
+1010,4023323,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85251,480,1287056,24006,33.5071933,-111.91706
+1011,4023333,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85257,480,2181796,8841,33.4794719,-111.9509448
+1012,4023343,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85257,602,1920059,16295,33.4860977,-111.9159439
+1013,4023353,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85257,480,2558166,48050,33.4748808,-111.9196965
+1014,4023363,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85271,480,2524586,61163,33.4619603,-111.9163918
+1015,4023373,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85257,480,1305688,0,33.4553353,-111.9348913
+1016,4023383,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85281,480,2589083,0,33.4146651,-111.952179
+1017,4023393,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85281,480,1287866,0,33.4111439,-111.9176864
+1018,4023403,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85281,480,1093172,0,33.417039,-111.8867329
+1019,4023413,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85282,480,2657428,9022,33.400944,-111.9001315
+1020,4023423,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85285,480,2578482,0,33.4001798,-111.9349062
+1021,4023433,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85283,480,1331378,33096,33.3821331,-111.9533755
+1022,4023443,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85283,480,2459943,212316,33.3703792,-111.9155206
+1023,4023453,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85283,480,2614826,0,33.3564609,-111.9198593
+1024,4023463,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85283,480,2952977,0,33.3551683,-111.9572021
+1025,4023473,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85283,480,2061110,0,33.3716749,-111.9530168
+1026,4023483,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85207,480,8146899,87297,33.4807379,-111.6750323
